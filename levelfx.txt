@@ -1,0 +1,11 @@
+*Level Name	ID	Starfield	Snow	Parralax	Light	LightQuestID	end
+Act 1 - Cave 1	8	0	0	0	1	1	0
+Act 2 - Arcane	74	1	0	0	0	1	0
+Act 5 - Mountain Top	120	0	0	1	0	1	0
+Act 5 - Town	109	0	1	0	0	1	0
+Act 5 - Siege 1	110	0	1	0	0	1	0
+Act 5 - Barricade 1	111	0	1	0	0	1	0
+Act 5 - Barricade 2	112	0	1	0	0	1	0
+Act 5 - Barricade Snow	117	0	1	0	0	1	0
+Act 5 - Mountain Top	120	0	1	0	0	1	0
+Act 5 - Temple Entrance	121	0	1	0	0	1	0

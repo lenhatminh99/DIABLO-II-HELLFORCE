@@ -1,0 +1,374 @@
+name	version	completed	beta	Level	LevelReq	code	type	transform	invtransform	transformcolor	NumMods	ItemMod1Code	ItemMod1Param	ItemMod1Min	ItemMod1Max	ItemMod2Code	ItemMod2Param	ItemMod2Min	ItemMod2Max	ItemMod3Code	ItemMod3Param	ItemMod3Min	ItemMod3Max	ItemMod4Code	ItemMod4Param	ItemMod4Min	ItemMod4Max	ItemMod5Code	ItemMod5Param	ItemMod5Min	ItemMod5Max	ItemMod6Code	ItemMod6Param	ItemMod6Min	ItemMod6Max	ItemMod7Code	ItemMod7Param	ItemMod7Min	ItemMod7Max	ItemMod8Code	ItemMod8Param	ItemMod8Min	ItemMod8Max	ItemMod9Code	ItemMod9Param	ItemMod9Min	ItemMod9Max	ItemMod10Code	ItemMod10Param	ItemMod10Min	ItemMod10Max
+The Gnasher	0	1	1	0	0	hax	Hand Axe	1	0	14	10	att	0	30	30	openwounds	0	50	50	crush	0	20	20		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Deathspade	0	1	1	0	0	axe	Axe	1	0	16	10	stupidity	0	1	1	dmg-min	0	8	8	att%	0	15	15	mana-kill	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Bladebone	0	1	1	0	0	2ax	Double Axe	1	1	1	10	dmg-undead	0	100	100	att-undead	0	40	40	swing2	0	20	20	ac	0	20	20	fire-min	0	4	4	fire-max	0	7	7																0
+Mindrend	0	1	1	0	0	mpi	Military Pick	1	0	10	10	stupidity	0	60	60	regen-mana	0	20	20	ltng-min	0	1	1	ltng-max	0	12	12	att	0	50	50																				0
+Rakescar	0	1	1	0	0	wax	War Axe	1	1	2	10	pois-min	0	64	64	pois-max	0	96	96	pois-len	0	75	75	att	0	50	50	res-pois	0	50	50																				0
+Fechmars Axe	0	1	1	0	0	lax	Large Axe	1	1	17	10	dmg%	0	50	50	freeze	0	1	1	res-cold	0	30	30	light	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Goreshovel	0	1	1	0	0	bax	Broad Axe	1	1	18	10	swing3	0	30	30	str	0	25	25	openwounds	0	60	60		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Chieftan	0	1	1	0	0	btx	Battle Axe	1	0	19	10	dmg%	0	100	100	res-all	0	10	10	res-pois	0	20	20	swing1	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Brainhew	0	1	1	0	0	gax	Great Axe	1	0	0	10	dmg-min	0	14	14	mana	0	25	25	light	0	4	4	manasteal	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Humongous	0	1	1	0	0	gix	Giant Axe	1	1	3	10	str	0	10	10	dmg-min	0	8	8	dmg-max	0	15	15	crush	0	33	33	ease	0	20	20																				0
+Iros Torch	0	1	1	0	0	wnd	Wand	1	0	9	10	nec	0	1	1	lifesteal	0	6	6	fire-min	0	5	5	fire-max	0	9	9		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Maelstromwrath	0	1	1	0	0	ywn	Yew Wand	1	1	5	10	ltng-min	0	1	1	ltng-max	0	9	9	res-ltng	0	40	40		0	1	1	cast3	0	20	20	mana	0	13	13																0
+Gravenspine	0	1	1	0	0	bwn	Bone Wand	1	0	12	10	str	0	10	10	dex	0	10	10	cold-min	0	4	4	cold-max	0	8	8	cold-len	0	75	75	manasteal	0	5	5																0
+Umes Lament	0	1	1	0	0	gwn	Grim Wand	1	1	4	10	nec	0	2	2	mana	0	40	40	cast3	0	20	20	howl	0	64	64																								0
+Felloak	0	1	1	0	0	clb	Club	1	0	1	10	res-ltng	0	60	60	res-fire	0	20	20	knock	0	1	1	fire-min	0	6	6	fire-max	0	8	8		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Knell Striker	0	1	1	0	0	scp	Scepter	1	1	8	10	crush	0	25	25	res-fire	0	20	20	res-pois	0	20	20	mana	0	15	15	att	0	35	35		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Rusthandle	0	1	1	0	0	gsc	Grand Scepter	1	1	15	10	pal	0	1	1	dmg-min	0	3	3	dmg-max	0	7	7	red-mag	0	1	1	lifesteal	0	8	8																				0
+Stormeye	0	1	1	0	0	wsp	War Scepter	1	1	9	10	ltng-min	0	1	1	ltng-max	0	6	6	cold-min	0	3	3	cold-max	0	5	5	cold-len	0	75	75	regen	0	10	10																0
+Stoutnail	0	1	1	0	0	spc	Spiked Club	1	0	2	10	thorns	0	1	10	dmg%	0	100	100	hp	0	15	15	red-mag	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Crushflange	0	1	1	0	0	mac	Mace	1	1	3	10	str	0	15	15	knock	0	1	1	light	0	2	2	res-fire	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Bloodrise	0	1	1	0	0	mst	Morning Star	1	0	4	10	dmg%	0	100	100	att%	0	50	50	bloody	0	3	5	light	0	2	2	swing1	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Generals Tan Do Li Ga	0	1	1	0	0	fla	Flail	1	1	5	10	dmg-min	0	1	1	dmg-max	0	20	20	slow	0	50	50	ac	0	25	25	manasteal	0	5	5		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Ironstone	0	1	1	0	0	whm	War Hammer	1	1	6	10	att	0	80	80	dmg%	0	60	60	ltng-min	0	1	1	ltng-max	0	10	10	dex	0	-5	-5		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Bonesob	0	1	1	0	0	mau	Maul	1	0	7	10	dmg%	0	200	200	crush	0	40	40	res-fire	0	30	30	res-cold	0	30	30		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Steeldriver	0	1	1	0	0	gma	Great Maul	1	1	12	10	ease	0	-50	-50	swing3	0	30	30	regen-stam	0	25	25																												0
+Rixots Keen	0	1	1	0	0	ssd	Short Sword	1	1	3	10	dmg-min	0	5	5	att%	0	20	20	light	0	2	2	crush	0	25	25	ac	0	25	25		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Blood Crescent	0	1	1	0	0	scm	Scimitar	1	0	4	10	res-all	0	15	15	dmg%	0	25	25	hp	0	15	15	light	0	4	4		0																0				0	0	0
+Krintizs Skewer	0	1	1	0	0	sbr	Saber	1	0	6	10	ignore-ac	0	1	1	str	0	10	10	dex	0	10	10	manasteal	0	3	3	dmg%	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Gleamscythe	0	1	1	0	0	flc	Falchion	1	0	7	10	light	0	3	3	mana	0	30	30	ac	0	20	20	swing2	0	20	20		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Azurewrath	0	1	1	0	0	crs	Crystal Sword	1	0	1	10	deadly	0	30	30	mag%	0	10	10	cold-min	0	3	3	cold-max	0	6	6	cold-len	0	100	100																				0
+Griswolds Edge	0	1	1	0	0	bsd	Broad Sword	1	0	9	10	fire-min	0	8	10	fire-max	0	12	16	att	0	40	40	swing1	0	10	10	knock	0	1	1		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Hellplague	0	1	1	0	0	lsd	Long Sword	1	0	8	10	manasteal	0	5	5	lifesteal	0	5	5	pois-min	0	48	48	pois-max	0	96	96	pois-len	0	150	150		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Culwens Point	0	1	1	0	0	wsd	War Sword	1	1	0	10	allskills	0	1	1	res-pois-len	0	50	50	balance2	0	20	20	block2	0	20	20	att	0	60	60																				0
+Shadowfang	0	1	1	0	0	2hs	2-Handed Sword	1	0	12	10	manasteal	0	5	5	res-cold	0	20	20	light	0	-2	-2	cold-min	0	5	5	cold-max	0	10	10	cold-len	0	75	75		0	0	0		0	0	0		0	0	0		0	0	0
+Soulflay	0	1	1	0	0	clm	Claymore	1	1	11	10	manasteal	0	4	10	lifesteal	0	4	4	dmg%	0	30	30	res-all	0	5	5		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Kinemils Awl	0	1	1	0	0	gis	Giant Sword	1	0	5	10	att	0	45	45	mana	0	20	20	fire-min	0	6	6	fire-max	0	12	12																								0
+Blacktongue	0	1	1	0	0	bsw	Bastard Sword	1	0	10	10	pois-min	0	48	48	noheal	0	1	1	hp	0	-10	-10	res-pois	0	50	50	pois-max	0	64	64	pois-len	0	75	75		0	0	0		0	0	0		0	0	0		0	0	0
+Ripsaw	0	1	1	0	0	flb	Flamberge	1	1	6	10	openwounds	0	50	50	bloody	0	3	5	dmg-max	0	15	15	manasteal	0	6	6																								0
+The Patriarch	0	1	1	0	0	gsd	Great Sword	1	0	9	10	red-dmg	0	3	3	red-mag	0	3	3	stupidity	0	50	50	gold%	0	100	100																								0
+Gull	0	1	1	0	0	dgr	Dagger	1	1	1	10	dmg-min	0	1	1	dmg-max	0	15	15	mag%	0	50	50	mana	0	-5	-5		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Diggler	0	1	1	0	0	dir	Dirk	1	1	2	10	dex	0	10	10	dmg%	0	50	50	swing3	0	30	30	res-cold	0	25	25	res-fire	0	25	25		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Jade Tan Do	0	1	1	0	0	kri	Kriss	1	0	19	10	att	0	75	75	nofreeze	0	1	1	pois-min	0	24	24	pois-max	0	48	48	pois-len	0	75	75																				0
+Irices Shard	0	1	1	0	0	bld	Blade	1	1	5	10	cast3	0	20	20	mana	0	50	50	att	0	55	55	res-all	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Dragon Chang	0	1	1	0	0	spr	Spear	1	1	18	10	att	0	35	35	dmg-min	0	10	10	light	0	2	2	dmg-undead	0	100	100		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Razortine	0	1	1	0	0	tri	Trident	1	0	19	10	slow	0	25	25	reduce-ac	0	50	50	str	0	15	15	dex	0	8	8	swing3	0	30	30		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Bloodthief	0	1	1	0	0	brn	Brandistock	1	1	0	10	openwounds	0	35	35	str	0	10	10	lifesteal	0	8	8	hp	0	26	26		0				0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Lance of Yaggai	0	1	1	0	0	spt	Spetum	1	1	7	10	thorns	0	8	8	ltng-min	0	1	1	ltng-max	0	40	40	res-all	0	15	15																								0
+The Tannr Gorerod	0	1	1	0	0	pik	Pike	1	1	1	10	fire-min	0	12	12	fire-max	0	18	18	res-fire-max	0	15	15	hp	0	30	30	att	0	60	60	light	0	3	3	res-fire	0	15	15		0	0	0		0	0	0		0	0	0
+Dimoaks Hew	0	1	1	0	0	bar	Bardiche	1	1	3	10	dex	0	15	15	dmg%	0	100	100	swing2	0	20	20	ac	0	-8	-8		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Steelgoad	0	1	1	0	0	vou	Voulge	1	1	12	10	howl	0	96	96	deadly	0	30	30	att	0	30	30	res-all	0	5	5																								0
+Soul Harvest	0	1	1	0	0	scy	Scythe	1	0	2	10	openwounds	0	30	30	att	0	45	45	res-all	0	20	20	pois-min	0	32	32	pois-max	0	48	48	pois-len	0	125	125		0	0	0		0	0	0		0	0	0		0	0	0
+The Battlebranch	0	1	1	0	0	pax	Poleaxe	1	1	4	10	swing3	0	30	30	dex	0	10	10	dmg%	0	50	50	att	0	40	40	lifesteal	0	7	7		0				0				0	0	0		0	0	0		0	0	0
+Woestave	0	1	1	0	0	hal	Halberd	1	1	5	10	pois-min	0	24	24	pois-max	0	96	96	slow	0	50	50	res-pois-max	0	15	15	res-pois	0	15	15	light	0	2	2	pois-len	0	75	75		0	0	0		0	0	0		0	0	0
+The Grim Reaper	0	1	1	0	0	wsc	War Scythe	1	1	17	10	deadly	0	50	50	noheal	0	1	1	manasteal	0	5	5	hp	0	-20	-20																								0
+Bane Ash	0	1	1	0	0	sst	Short Staff	1	1	10	10	fire-min	0	4	4	fire-max	0	6	6	res-fire	0	50	50	mana	0	30	30	swing2	0	20	20		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Serpent Lord	0	1	1	0	0	lst	Long Staff	1	1	12	10	pois-min	0	8	8	pois-max	0	128	128	res-pois	0	50	50	light	0	-1	-1	pois-len	0	75	75	mana	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0
+Lazarus Spire	0	1	1	0	0	cst	Gnarled Staff	1	0	1	10	res-all	0	30	30	red-mag	0	3	3	mana	0	20	20	swing2	0	20	20	str	0	9	9	fire-min	0	7	7	fire-max	0	12	12		0	0	0		0	0	0		0	0	0
+The Salamander	0	1	1	0	0	bst	Battle Staff	1	1	8	10	fireskill	0	2	2	fire-min	0	1	1	fire-max	0	10	10	res-fire	0	20	20	att	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Iron Jang Bong	0	1	1	0	0	wst	War Staff	1	1	14	10	ltng-min	0	1	1	att%	0	50	50	ac	0	25	25	sor	0	1	1	cast3	0	20	20	ltng-max	0	25	25		0	0	0		0	0	0		0	0	0		0	0	0
+Pluckeye	0	1	1	0	0	sbw	Short Bow	1	1	6	10	att	0	28	28	dmg%	0	100	100	hp	0	10	10	light	0	2	2	manasteal	0	3	3		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Witherstring	0	1	1	0	0	hbw	Hunter’s Bow	1	1	7	10	swing3	0	30	30	dmg-min	0	1	1	dmg-max	0	3	3	att	0	50	50	magicarrow	0	35	35		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Rimeraven	0	1	1	0	0	lbw	Long Bow	1	1	8	10	att%	0	50	50	dex	0	3	3	explosivearrow	0	30	30	str	0	3	3		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Piercerib	0	1	1	0	0	cbw	Composite Bow	1	0	9	10	res-all	0	10	10	deadly	0	30	30	att	0	60	60	dmg-undead	0	100	100		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Pullspite	0	1	1	0	0	sbb	Short Battle Bow	1	0	10	10	ltng-min	0	1	1	str	0	8	8	att	0	28	28	pierce	0	10	10	ltng-max	0	10	10	res-ltng	0	25	25		0	0	0		0	0	0		0	0	0		0	0	0
+Wizendraw	0	1	1	0	0	lbb	Long Battle Bow	1	1	11	10	magicarrow	0	1	1	mana	0	30	30	swing2	0	20	20	res-cold	0	26	26	att	0	36	36		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Hellclap	0	1	1	0	0	swb	Short War Bow	1	0	12	10	swing1	0	10	10	fire-min	0	6	6	fire-max	0	9	9	att	0	20	20	res-fire	0	40	40	dex	0	12	12		0	0	0		0	0	0		0	0	0		0	0	0
+Blastbark	0	1	1	0	0	lwb	Long War Bow	1	1	13	10	dmg%	0	50	50	str	0	5	5	ama	0	1	1	manasteal	0	3	3		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Leadcrow	0	1	1	0	0	lxb	Light Crossbow	1	0	14	10	dex	0	10	10	hp	0	10	10	dmg%	0	50	50	res-pois	0	30	30	deadly	0	25	25	att	0	40	40		0	0	0		0	0	0		0	0	0		0	0	0
+Ichorsting	0	1	1	0	0	mxb	Crossbow	1	0	15	10	pois-min	0	24	24	pois-max	0	32	32	dex	0	20	20	pierce	0	50	50	att	0	50	50	pois-len	0	75	75		0	0	0		0	0	0		0	0	0		0	0	0
+Hellcast	0	1	1	0	0	hxb	Heavy Crossbow	1	0	16	10	explosivearrow	0	1	1	res-fire-max	0	15	15	res-fire	0	15	15	att	0	70	70	swing2	0	20	20		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Doomspittle	0	1	1	0	0	rxb	Repeating Crossbow	1	0	17	10	ama	0	1	1	pierce	0	35	35	swing3	0	30	30	hp	0	15	15		0				0				0	0	0		0	0	0		0	0	0		0	0	0
+War Bonnet	0	1	1	0	0	cap	Cap	1	0	18	10	hp	0	15	15	att	0	30	30	dmg%	0	40	40	mana	0	15	15		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Tarnhelm	0	1	1	0	0	skp	Skull Cap	1	1	19	10	gold%	0	75	75	mag%	0	25	50	allskills	0	1	1		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Coif of Glory	0	1	1	0	0	hlm	Helm	1	0	0	10	light-thorns	0	4	4	stupidity	0	1	1	res-ltng	0	15	15	ac-miss	0	25	25		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Duskdeep	0	1	1	0	0	fhl	Full Helm	1	0	1	10	light	0	-2	-2	res-all	0	5	5	red-dmg	0	3	3	dmg-max	0	8	8		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Wormskull	0	1	1	0	0	bhm	Bone Helm	1	0	10	10	nec	0	1	1	lifesteal	0	5	5	mana	0	10	10	res-pois	0	25	25																								0
+Howltusk	0	1	1	0	0	ghm	Great Helm	1	1	2	10	red-mag	0	2	2	thorns	0	3	3	ac%	0	40	40	dmg-to-mana	0	35	35		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Undead Crown	0	1	1	0	0	crn	Crown	1	1	3	10	lifesteal	0	4	4	ac	0	8	8	res-pois	0	50	50	half-freeze	0	1	1		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Face of Horror	0	1	1	0	0	msk	Mask	1	1	4	10	howl	0	64	64	str	0	20	20	res-all	0	5	5	dmg-undead	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Greyform	0	1	1	0	0	qui	Quilted Armor	1	1	1	10	red-mag	0	3	3	res-cold	0	20	20	res-fire	0	20	20	dex	0	10	10	lifesteal	0	5	5		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Blinkbats Form	0	1	1	0	0	lea	Leather Armor	1	1	8	10	ac-miss	0	16	16	move1	0	10	10	ac	0	25	25	fire-min	0	3	3	fire-max	0	6	6		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Centurion	0	1	1	0	0	hla	Hard Leather	1	1	9	10	ac	0	30	30	att	0	25	25	red-dmg	0	2	2	hp	0	15	15	mana	0	15	15	stam	0	15	15	regen	0	3	3		0	0	0		0	0	0		0	0	0
+Twitchthroe	0	1	1	0	0	stu	Studded Leather	1	1	10	10	swing1	0	10	10	dex	0	10	10	block	0	25	25	ac	0	15	15	str	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Darkglow	0	1	1	0	0	rng	Ring Mail	1	1	11	10	att	0	20	20	res-all-max	0	5	5	light	0	3	3	ac-hth	0	25	25	res-all	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Hawkmail	0	1	1	0	0	scl	Scale Mail	1	1	12	10	ac	0	12	12	res-cold-max	0	15	15	res-cold	0	15	15	nofreeze	0	1	1		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Sparking Mail	0	1	1	0	0	chn	Chain Mail	1	1	13	10	ac	0	40	40	ltng-min	0	1	1	ltng-max	0	10	10	light-thorns	0	1	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Venomsward	0	1	1	0	0	brs	Breast Plate	1	1	14	10	pois-min	0	24	24	pois-max	0	32	32	dmg%	0	50	50	res-pois-max	0	15	15	light	0	2	2	pois-len	0	75	75	res-pois	0	15	15		0	0	0		0	0	0		0	0	0
+Iceblink	0	1	1	0	0	spl	Splint Mail	1	1	15	10	freeze	0	1	1	res-cold	0	30	30	light	0	4	4	red-mag	0	1	1		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Boneflesh	0	1	1	0	0	plt	Plate Mail	1	1	16	10	lifesteal	0	5	5	ac	0	35	35	att	0	35	35		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Rockfleece	0	1	1	0	0	fld	Field Plate	1	1	17	10	ease	0	-10	-10	ac	0	25	25	res-pois	0	50	50	red-dmg	0	3	3	str	0	5	5		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Rattlecage	0	1	1	0	0	gth	Gothic Plate	1	1	18	10	howl	0	1	1	att	0	45	45	crush	0	25	25	ac	0	45	45		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Goldskin	0	1	1	0	0	ful	Full Plate Mail	1	0	19	10	ac	0	75	75	res-all	0	30	30	thorns	0	1	10	light	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Victors Silk	0	1	1	0	0	aar	AncientArmor	1	0	5	10	manasteal	0	5	5	allskills	0	1	1	light	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Heavenly Garb	0	1	1	0	0	ltp	LightPlate	1	1	6	10	ac%	0	100	100	res-all	0	10	10	regen-mana	0	25	25		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Pelta Lunata	0	1	1	0	0	buc	Buckler	1	0	0	10	ac	0	40	40	hp	0	10	10	str	0	2	2	mana	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Umbral Disk	0	1	1	0	0	sml	Small Shield	1	0	1	10	stupidity	0	1	1	dex	0	10	10	ac	0	18	18	hp	0	20	20	light	0	-2	-2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Stormguild	0	1	1	0	0	lrg	Large Shield	1	0	2	10	red-mag	0	1	1	res-ltng	0	25	25	ac	0	15	15	ltng-min	0	1	1	ltng-max	0	6	6		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Wall of the Eyeless	0	1	1	0	0	bsh	Bone Shield	1	0	15	10	mana-kill	0	5	5	manasteal	0	3	3	cast3	0	20	20	res-pois	0	20	20																								0
+Swordback Hold	0	1	1	0	0	spk	Spiked Shield	1	0	7	10	thorns	0	5	5	block	0	20	20	openwounds	0	50	50	bloody	0	3	5																								0
+Steelclash	0	1	1	0	0	kit	Kite Shield	1	0	3	10	block	0	25	25	pal	0	1	1	red-dmg	0	3	3	light	0	3	3		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Bverrit Keep	0	1	1	0	0	tow	Tower Shield	1	0	4	10	ac	0	20	20	res-fire	0	25	25	str	0	5	5	red-mag	0	4	4		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Ward	0	1	1	0	0	gts	Gothic Shield	1	0	5	10	ac	0	40	40	red-mag	0	2	2	str	0	10	10	block	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Hand of Broc	0	1	1	0	0	lgl	Gloves	1	1	6	10	manasteal	0	3	3	lifesteal	0	3	3	res-pois	0	10	10	mana	0	20	20		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Bloodfist	0	1	1	0	0	vgl	Heavy Gloves	1	1	19	10	dmg-min	0	5	5	hp	0	40	40	balance3	0	30	30																												0
+Chance Guards	0	1	1	0	0	mgl	Bracers	1	1	7	10	gold%	0	200	200	mag%	0	24	24	att	0	25	25	ac	0	15	15	light	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Magefist	0	1	1	0	0	tgl	Light Gauntlets	1	1	1	10	cast3	0	20	20	regen-mana	0	25	25	fireskill	0	1	1	fire-min	0	1	1	fire-max	0	5	5																				0
+Frostburn	0	1	1	0	0	hgl	Gauntlets	1	1	8	10	ac	0	30	30	dmg%	0	85	85	mana%	0	40	40	cold-min	0	1	1	cold-max	0	6	6	cold-len	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0
+Hotspur	0	1	1	0	0	lbt	Leather Boots	1	1	9	10	res-fire-max	0	15	15	hp	0	15	15	fire-min	0	3	3	fire-max	0	6	6		0	0	0	res-fire	0	15	15		0	0	0		0	0	0		0	0	0		0	0	0
+Gorefoot	0	1	1	0	0	vbt	Heavy Boots	1	1	5	10	bloody	0	3	5	move2	0	20	20	manasteal	0	2	2	thorns	0	2	2																								0
+Treads of Cthon	0	1	1	0	0	mbt	Chain Boots	1	1	10	10	move3	0	30	30	ac-miss	0	50	50	stamdrain	0	50	50	hp	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Goblin Toe	0	1	1	0	0	tbt	Light Plate Boots	1	1	2	10	crush	0	25	25	red-dmg	0	1	1	red-mag	0	1	1	ac	0	5	5	light	0	-1	-1																				0
+Tearhaunch	0	1	1	0	0	hbt	Plate Boots	1	1	11	10	ac	0	10	10	str	0	5	5	dex	0	5	5	move2	0	20	20	res-all	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Lenyms Cord	0	1	1	0	0	lbl	Sash	1	1	12	10	mana	0	15	15	regen-mana	0	30	30	res-all	0	5	5	light	0	1	1		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Snakecord	0	1	1	0	0	vbl	Light Belt	1	1	3	10	pois-min	0	16	16	pois-max	0	24	32	pois-len	0	75	75	res-pois	0	25	25	ac	0	11	11	regen	0	5	5																0
+Nightsmoke	0	1	1	0	0	mbl	Belt	1	1	13	10	res-all	0	10	10	dmg-to-mana	0	50	50	mana	0	20	20	red-dmg	0	2	2		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Goldwrap	0	1	1	0	0	tbl	Heavy Belt	1	1	4	10	mag%	0	30	30	light	0	2	2	ac	0	40	40	swing1	0	10	10																								0
+Bladebuckle	0	1	1	0	0	hbl	Girdle	1	1	14	10	thorns	0	8	8	ac	0	20	20	red-dmg	0	3	3	str	0	5	5	dex	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Nokozan Relic	0	1	1	0	0	amu	Amulet	1	0	15	10	fire-min	0	3	3	res-fire-max	0	10	10	res-fire	0	10	10	light	0	3	3	fire-max	0	6	6		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Eye of Etlich	0	1	1	0	0	amu	Amulet	1	0	16	10	ac-miss	0	10	40	light	0	1	5	allskills	0	1	1	lifesteal	0	3	7	cold-min	0	1	2	cold-max	0	3	5	cold-len	0	50	250		0	0	0		0	0	0		0	0	0
+The Mahim-Oak Curio	0	1	1	0	0	amu	Amulet	1	0	17	10	dex	0	5	5	mana	0	20	20	str	0	5	5	hp	0	20	20	ac	0	10	10	att	0	40	40		0				0	0	0		0	0	0		0	0	0
+Nagelring	0	1	1	0	0	rin	Ring	1	0	18	10	red-mag	0	2	2	thorns	0	3	3	att	0	18	18	mag%	0	15	15		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Manald Heal	0	1	1	0	0	rin	Ring	1	0	19	10	manasteal	0	4	4	regen	0	5	5	hp	0	20	20		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+The Stone of Jordan	0	1	1	0	0	rin	Ring	1	0	0	10	mana	0	20	20	mana%	0	25	25	ltng-min	0	1	1	allskills	0	1	1	ltng-max	0	12	12		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Amulet of the Viper	0	1	0	0	0	vip	Amulet	1	0	1	3	mana	0	10	10	res-pois	0	25	25	hp	0	10	10		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Staff of Kings	0	1	0	0	0	msf	Staff	1	0	2	2	res-all	0	10	10	swing3	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Horadric Staff	0	1	0	0	0	hst	Staff	1	0	3	5	mana	0	10	10	res-pois	0	25	25	hp	0	10	10	res-all	0	10	10	swing3	0	50	50		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+Hell Forge Hammer	0	1	0	0	0	hfh	Hammer	1	0	9	5	fire-min	0	5	5	fire-max	0	20	20	res-fire	0	40	40	ac	0	35	35		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+KhalimFlail	0	1	1	0	0	qf1	Flail	1	0	5	5	ltng-min	0	1	1	ltng-max	0	20	20	swing3	0	50	50	att	0	40	40		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0		0	0	0
+SuperKhalimFlail	0	1	1	0	0	qf2	Flail	1	0	5	5	ltng-min	0	1	1	ltng-max	0	40	40	swing3	0	50	50	att	0	40	40	manasteal	0	6	6	lifesteal	0	6	6		0	0	0		0	0	0		0	0	0		0	0	0
+Expansion																																																			0
+Coldkill	100	0	0	0	0	9ha	Hatchet	1	0	6	10	cold-min	0	10	10	cold-max	0	20	20	cold-len	0	5	5	res-cold-max	0	10	10	block3	0				0				0				0								0	0	0
+Butcher's Pupil	100	0	0	0	0	9ax	Cleaver	1																																											0
+Islestrike	100	0	0	0	0	92a	Twin Axe	1																																											0
+Pompe's Wrath	100	0	0	0	0	9mp	Crowbill	1																																											0
+Guardian Naga	100	0	0	0	0	9wa	Naga	1																																											0
+Warlord's Trust	100	0	0	0	0	9Ia	Military Axe	1																																											0
+Spellsteel	100	0	0	0	0	9ba	Bearded Axe	1	0	0	10	ease	0	-60	-60	mana	0	100	100	red-mag%	0	20	20	cast1	0	0	0		0				0				0				0								0	0	0
+Stormrider	100	0	0	0	0	9bt	Tabar	1																																											0
+Boneslayer Blade	100	0	0	0	0	9ga	Gothic Axe	1																																											0
+The Minataur	100	0	0	0	0	9gi	Ancient Axe	1																																											0
+Suicide Branch	100	0	0	0	0	9wn	Burnt Wand	1																																											0
+Carin Shard	100	0	0	0	0	9yw	Petrified Wand	1																																											0
+Arm of King Leoric	100	0	0	0	0	9bw	Tomb Wand	1																																											0
+Blackhand Key	100	0	0	0	0	9gw	Grave Wand	1																																											0
+Dark Clan Crusher	100	0	0	0	0	9cl	Cudgel	1	1	16	10	bar	0	1	1	dmg-demon	0	250	250	att-demon	0	200	200		0				0				0				0				0								0	0	0
+Zakarum's Hand	100	0	0	0	0	9sc	Rune Scepter	1	1	17	10	manasteal	0	30	30	att%	0	300	300	regen-mana	0	10	10	regen-stam	0	15	15		0				0				0				0								0	0	0
+The Fetid Sprinkler	100	0	0	0	0	9qs	Holy Water Sprinkler	1																																											0
+Hand of Blessed Light	100	0	0	0	0	9ws	Devine Scepter	1	0	13	10	pal	0	0	0	dmg%	0	150	150	att%	0	150	150	ac%	0	150	150	regen-mana	0	10	10	light	0	4	4		0				0								0	0	0
+Fleshrender	100	0	0	0	0	9sp	Barbed Club	1	0	3	10	openwounds	0	10	10	noheal	0	0	0	crush	0	20	20	deadly	0	20	20	bloody	0	0	0		0				0				0								0	0	0
+Sureshrill Frost	100	0	0	0	0	9ma	Flanged Mace	1																																											0
+Moonfall	100	0	0	0	0	9mt	Jagged Star	1																																											0
+Baezil's Vortex	100	0	0	0	0	9fl	Knot	1																																											0
+Earthshaker	100	0	0	0	0	9wh	Battle Hammer	1																																											0
+Bloodtree Stump	100	0	0	0	0	9m9	War Club	1	0	8	10	ease	0	-100	-100	att	0	75	75	dmg%	0	200	200	demon-heal	0	20	20		0				0				0				0								0	0	0
+The Gavel of Pain	100	0	0	0	0	9gm	Martel de Fer	1																																											0
+Bloodletter	100	0	0	0	0	9ss	Gladius	1	1	17	10	dmg-max	0	25	25	dmg-min	0	10	10	att	0	90	90	lifesteal	0	8	8	stamdrain	0	10	10	block	0	20	20		0				0								0	0	0
+Coldsteel Eye	100	0	0	0	0	9sm	Cutlass	1	0	2	10	howl	0	35	35	slow	0	30	30	crush	0	15	15	dur%	0	20	20		0				0				0				0								0	0	0
+Hexfire	100	0	0	0	0	9sb	Shamshir	1																																											0
+Blade of Ali Baba	100	0	0	0	0	9fc	Tulwar	1																																											0
+Riftlash	100	0	0	0	0	9cr	Dimensional Blade	1																																											0
+Headstriker	100	0	0	0	0	9bs	Battle Sword	1																																											0
+Plague Bearer	100	0	0	0	0	9ls	Rune Sword	1																																											0
+The Atlantian	100	0	0	0	0	9wd	Ancient Sword	1	1	4	10	dur	0	100	100	ac	0	100	100	str	0	16	16	dex	0	8	8	vit	0	10	10		0				0				0								0	0	0
+Crainte Vomir	100	0	0	0	0	92h	Espadon	1	0	15	10	howl	0	30	30	slow	0	30	30	dmg-ac	0	-70	-70	move2	0	0	0	red-dmg%	0	10	10		0				0				0								0	0	0
+Bing Sz Wang	100	0	0	0	0	9cm	Dacian Falx	1																																											0
+The Vile Husk	100	0	0	0	0	9gs	Tusk Sword	1																																											0
+Cloudcrack	100	0	0	0	0	9b9	Gothic Sword	1																																											0
+Todesfaelle Flamme	100	0	0	0	0	9fb	Zweihander	1																																											0
+Swordguard	100	0	0	0	0	9gd	Executioner Sword	1																																											0
+Spineripper	100	0	0	0	0	9dg	Poignard	1																																											0
+Heart Carver	100	0	0	0	0	9di	Rondel	1																																											0
+Blackbog's Sharp	100	0	0	0	0	9kr	Cinquedeas	1																																											0
+Stormspike	100	0	0	0	0	9bl	Stilleto	1																																											0
+The Impaler	100	0	0	0	0	9tk	War Spear	1	0	7	10	ignore-ac	0	0	0	att%	0	150	150	swing2	0	0	0	openwounds	0	0	0	noheal	0	0	0		0				0				0								0	0	0
+Kelpie Snare	100	0	0	0	0	9ta	Fuscina	1																																											0
+Soulfeast Tine	100	0	0	0	0	9br	War Fork	1																																											0
+Hone Sundan	100	0	0	0	0	9st	Yari	1																																											0
+Spire of Honor	100	0	0	0	0	9p9	Lance	1																																											0
+The Meat Scraper	100	0	0	0	0	9b7	Lochaber Axe	1	1	8	10	light-thorns	0	20	20	dmg-max	0	100	100	dmg-min	0	50	50	swing2	0	0	0	demon-heal	0	20	20		0				0				0								0	0	0
+Blackleach Blade	100	0	0	0	0	9vo	Bill	1																																											0
+Athena's Wrath	100	0	0	0	0	9s8	Battle Scythe	1																																											0
+Pierre Tombale Couant	100	0	0	0	0	9pa	Partizan	1																																											0
+Husoldal Evo	100	0	0	0	0	9h9	Bec-de-Corbin	1																																											0
+Grim's Burning Dead	100	0	0	0	0	9wc	Grim Scythe	1																																											0
+Razorswitch	100	0	0	0	0	8ss	Jo Stalf	1	0	17	10	swing3	0	0	0	ignore-ac	0	0	0	dmg%	0	250	250	deadly	0	30	30		0				0				0				0								0	0	0
+Ribcracker	100	0	0	0	0	8ls	Quarterstaff	1																																											0
+Chromatic Ire	100	0	0	0	0	8cs	Cedar Staff	1																																											0
+Warpspear	100	0	0	0	0	8bs	Gothic Staff	1																																											0
+Skullcollector	100	0	0	0	0	8ws	Rune Staff	1																																											0
+Skystrike	100	0	0	0	0	8sb	Edge Bow	1																																											0
+Riphook	100	0	0	0	0	8hb	Razor Bow	1	1	9	10	openwounds	0	30	30	dmg-max	0	30	30	dmg-min	0	20	20	slow	0	0	0	mana	0	35	35	cast3	0	0	0		0				0								0	0	0
+Kuko Shakaku	100	0	0	0	0	8lb	CedarBow	1																																											0
+Endlesshail	100	0	0	0	0	8cb	Double Bow	1																																											0
+Whichwild String	100	0	0	0	0	8s8	Short Siege Bow	1																																											0
+Cliffkiller	100	0	0	0	0	8l8	Long Siege Bow	1	0	16	10	bar	0	1	1	dmg%	0	300	300	ac-miss	0	80	80		0				0				0				0				0								0	0	0
+Magewrath	100	0	0	0	0	8sw	Rune Bow	1	0	19	10	ease	0	-30	-30	manasteal	0	15	15	red-mag	0	30	30	sor	0	1	1		0				0				0				0								0	0	0
+Godstrike Arch	100	0	0	0	0	8lw	Gothic Bow	1																																											0
+Langer Briser	100	0	0	0	0	8lx	Arbalest	1																																											0
+Pus Spiter	100	0	0	0	0	8mx	Siege Crossbow	1																																											0
+Buriza-Do Kyanon	100	0	0	0	0	8hx	Balista	1																																											0
+Demon Machine	100	0	0	0	0	8rx	Chu-Ko-Nu	1	1	3	10	ac	0	65	65	mana	0	50	50	pierce	0	50	50	explosivearrow	0	30	30		0				0				0				0								0	0	0
+The Scalper	100	0	0	0	0	7ha	Tomahawk	1																																											0
+Bloodmoon	100	0	0	0	0	7ax	Small Crescent	1																																											0
+Djinnslayer	100	0	0	0	0	72a	Ettin Axe	1																																											0
+Deathbit	100	0	0	0	0	7mp	War Spike	1																																											0
+Warshrike	100	0	0	0	0	7wa	Berserker Axe	1																																											0
+Gutsiphon	100	0	0	0	0	7ia	Feral Axe	1																																											0
+Razoredge	100	0	0	0	0	7ba	Silver Edged Axe	1																																											0
+Headhunter's Glory	100	0	0	0	0	7bt	Decapitator	1																																											0
+Mordoc's marauder	100	0	0	0	0	7ga	Champion Axe	1																																											0
+Gore Ripper	100	0	0	0	0	7gi	Glorious Axe	1																																											0
+Demonlimb	100	0	0	0	0	7wn	Polished Wand	1																																											0
+Steelshade	100	0	0	0	0	7yw	Ghost Wand	1																																											0
+Tomb Reaver	100	0	0	0	0	7bw	Lich Wand	1																																											0
+Deaths's Web	100	0	0	0	0	7gw	Unearthed Wand	1																																											0
+Nature's Peace	100	0	0	0	0	7cl	Truncheon	1																																											0
+Horazon's Chalice	100	0	0	0	0	7sc	Mighty Scepter	1																																											0
+Seraph's Hymn	100	0	0	0	0	7qs	Seraph Rod	1																																											0
+Zakarum's Salvation	100	0	0	0	0	7ws	Caduceus	1																																											0
+Fleshripper	100	0	0	0	0	7sp	Tyrant Club	1																																											0
+Odium	100	0	0	0	0	7ma	Reinforced Mace	1																																											0
+Blood Rain	100	0	0	0	0	7mt	Devil Star	1																																											0
+Horizon's Tornado	100	0	0	0	0	7fl	Scourge	1																																											0
+Steelrend	100	0	0	0	0	7wh	Legendary Mallet	1																																											0
+Stone Crusher	100	0	0	0	0	7m7	Orge Maul	1																																											0
+Bul-Kathos' Might	100	0	0	0	0	7gm	Thunder Maul	1																																											0
+Jadetalon	100	0	0	0	0	7ss	Falcata	1																																											0
+Shadowdancer	100	0	0	0	0	7sm	Ataghan	1																																											0
+Blademaster	100	0	0	0	0	7sb	Elegant Blade	1																																											0
+Cerebus	100	0	0	0	0	7fc	Hydry Edge	1																																											0
+Tyrael's Might	100	0	0	0	0	7cr	Phase Blade	1																																											0
+Souldrain	100	0	0	0	0	7bs	Conquest Sword	1																																											0
+Runemaster	100	0	0	0	0	7ls	Cryptic Sword	1																																											0
+Deathcleaver	100	0	0	0	0	7wd	Mythical Sword	1																																											0
+Executioner's Justice	100	0	0	0	0	72h	Legend Sword	1																																											0
+Stoneraven	100	0	0	0	0	7cm	Highland Blade	1																																											0
+Leviathan	100	0	0	0	0	7gs	Balrog Blade	1																																											0
+The Wanderer's Blade	100	0	0	0	0	7b7	Champion Sword	1																																											0
+Larzuk's Champion	100	0	0	0	0	7fb	Colossal Sword	1																																											0
+Dawnbringer	100	0	0	0	0	7gd	Colossus Blade	1																																											0
+Dragontooth	100	0	0	0	0	7dg	Bone Knife	1																																											0
+Wisp	100	0	0	0	0	7di	Mithral Point	1																																											0
+Gargoyle's Bite	100	0	0	0	0	7kr	Fanged Knife	1																																											0
+Lacerator	100	0	0	0	0	7bl	Legend Spike	1																																											0
+Mang Song's Lesson	100	0	0	0	0	7sr	Hyperion Spear	1																																											0
+Viperfork	100	0	0	0	0	7tr	Stygian Pike	1																																											0
+Blood Chalice	100	0	0	0	0	7br	Mancatcher	1																																											0
+Ethereal Edge	100	0	0	0	0	7st	Ghost Spear	1																																											0
+The Long Rod	100	0	0	0	0	7p7	War Pike	1																																											0
+Demonhorn's Edge	100	0	0	0	0	7o7	Ogre Axe	1																																											0
+The Ensanguinator	100	0	0	0	0	7vo	Colossus Voulge	1																																											0
+The Reaper's Toll	100	0	0	0	0	7s8	Thresher	1																																											0
+Spiritkeeper	100	0	0	0	0	7pa	Cryptic Axe	1																																											0
+Hellrack	100	0	0	0	0	7h7	Great Pollax	1																																											0
+Alma Negra	100	0	0	0	0	7wc	Giant Thresher	1																																											0
+Darkforge Spawn	100	0	0	0	0	6ss	Walking Stick	1																																											0
+Rockhew	100	0	0	0	0	6ls	Stalagmite	1																																											0
+Sankenkur's Resurrection	100	0	0	0	0	6cs	Elder Staff	1																																											0
+Erion's Bonehandle	100	0	0	0	0	6bs	Shillelah	1																																											0
+The Archon Magus	100	0	0	0	0	6ws	Archon Staff	1																																											0
+Widowmaker	100	0	0	0	0	6sb	Spider Bow	1																																											0
+Bloodraven's Charge	100	0	0	0	0	6hb	Blade Bow	1																																											0
+Ghostflame	100	0	0	0	0	6lb	Shadow Bow	1																																											0
+Shadowkiller	100	0	0	0	0	6cb	Great Bow	1																																											0
+Gimmershred	100	0	0	0	0	6s7	Diamond Bow	1																																											0
+Nebucaneezer's Storm	100	0	0	0	0	6l7	Crusader Bow	1																																											0
+Griffon's Eye	100	0	0	0	0	6sw	Ward Bow	1																																											0
+Banshee's Wail	100	0	0	0	0	6lw	Hydra Bow	1																																											0
+Windhammer	100	0	0	0	0	6lx	Pellet Bow	1																																											0
+Thunderstroke	100	0	0	0	0	6mx	Gorgon Crossbow	1																																											0
+Giantmaimer	100	0	0	0	0	6hx	Colossus Crossbow	1																																											0
+Demon's Arch	100	0	0	0	0	6rx	Demon Crossbow	1																																											0
+Armor																																																			0
+Peasent Crown	100	0	0	0	0	xap	War Hat	1	0	1	10	enr	0	20	20	vit	0	20	20	allskills	0	1	1	move3	0	0	0	regen	0	12	12		0				0				0										0
+Rockstopper	100	0	0	0	0	xkp	Sallet	1																																											0
+Stealskull	100	0	0	0	0	xlm	Casque	1																																											0
+Darksight Helm	100	0	0	0	0	xhl	Basinet	1																																											0
+Valkiry Wing	100	0	0	0	0	xhm	Winged Helm	1	0	15	10	ac	0	60	60	move3	0	0	0	balance3	0	0	0	cast3	0	0	0	swing3	0	0	0		0				0				0										0
+Crown of Thieves	100	0	0	0	0	xm	Grand Crown	1																																											0
+Blackhorn's Face	100	0	0	0	0	xsk	Death Mask	1	0	3	10	light-thorns	0	25	25	slow	0	20	20	noheal	0	35	35	abs-ltng	0	20	20	res-ltng	0	15	15		0				0				0										0
+The Spirit Shroud	100	0	0	0	0	xui	Ghost Armor	1																																											0
+Skin of the Vipermagi	100	0	0	0	0	xea	SerpentSkin Armor	1	0	19	10	ac	0	120	120	res-all	0	35	35	cast3	0	0	0	red-mag	0	15	15		0				0				0				0										0
+Skin of the Flayerd One	100	0	0	0	0	xla	Demonhide Armor	1																																											0
+Ironpelt	100	0	0	0	0	xtu	Tresllised Armor	1																																											0
+Spiritforge	100	0	0	0	0	xng	Linked Mail	1																																											0
+Crow Caw	100	0	0	0	0	xcl	Tigulated Mail	1																																											0
+Shaftstop	100	0	0	0	0	xhn	Mesh Armor	1	0	2	10	ac-miss	0	100	100	red-dmg%	0	12	12	hp	0	60	60		0				0				0				0				0										0
+Duriel's Shell	100	0	0	0	0	xrs	Cuirass	1																																											0
+Skullder's Ire	100	0	0	0	0	xpl	Russet Armor	1																																											0
+Guardian Angel	100	0	0	0	0	xlt	Templar Coat	1	0	0	10	light	0	4	4	pal	0	1	1	ac	0	50	50	block3	0	0	0	res-all-max	0	15	15	att-demon	0	100	100		0				0										0
+Toothrow	100	0	0	0	0	xld	Sharktooth Armor	1																																											0
+Atma's Wail	100	0	0	0	0	xth	Embossed Plate	1																																											0
+Black Hades	100	0	0	0	0	xul	Chaos Armor	1																																											0
+Corpsemourn	100	0	0	0	0	xar	Ornate Armor	1																																											0
+Que-Hegan's Wisdon	100	0	0	0	0	xtp	Mage Plate	1																																											0
+Visceratuant	100	0	0	0	0	xuc	Defender	1	0	8	10	nec	0	1	1	hp	0	80	80	block3	0	0	0	block	0	25	25		0				0				0				0										0
+Mosers Blessed Circle	100	0	0	0	0	xml	Round Shield	1																																											0
+Stormchaser	100	0	0	0	0	xrg	Scutum	1																																											0
+Tiamat's Rebuke	100	0	0	0	0	xit	Dragon Shield	1																																											0
+Kerke's Sanctuary	100	0	0	0	0	xow	Pavise	1																																											0
+Radimant's Sphere	100	0	0		0	xts	Ancient Shield	1																																											0
+Venom Grip	100	0	0	0	0	xlg	Demonhide Gloves	1	0	11	10	res-pois	0	30	30	res-pois-max	0	5	5	pois-min	0	25	25	pois-max	0	50	50	pois-len	0	10	10	crush	0	0	0	lifesteal	0	8	8		0										0
+Gravepalm	100	0	0	0	0	xvg	Sharkskin Gloves	1																																											0
+Ghoulhide	100	0	0	0	0	xmg	Heavy Bracers	1																																											0
+Lavagout	100	0	0	0	0	xtg	Battle Guantlets	1	0	13	10	fire-min	0	20	20	fire-max	0	40	40	res-fire	0	24	24	nofreeze	0	0	0	fireskill	0	1	1	swing1	0	0	0		0				0										0
+Hellmouth	100	0	0	0	0	xhg	War Gauntlets	1																																											0
+Infernostride	100	0	0	0	0	xlb	Demonhide Boots	1																																											0
+Waterwalk	100	0	0	0	0	xvb	Sharkskin Boots	1																																											0
+Silkweave	100	0	0	0	0	xmb	Mesh Boots	1																																											0
+Wartraveler	100	0	0	0	0	xtb	Battle Boots	1																																											0
+Gorerider	100	0	0	0	0	xhb	War Boots	1	0	8	10	ease	0	0	0	bloody	0	0	0	deadly	0	0	0	dmg-max	0	10	10		0				0				0				0										0
+String of Ears	100	0	0	0	0	zlb	Demonhide Sash	1	0	7	10	ignore-ac	0	0	0	red-mag	0	15	15	red-dmg%	0	15	15	lifesteal	0	8	8		0				0				0				0										0
+Razortail	100	0	0	0	0	zvb	Sharkskin Belt	1																																											0
+Gloomstrap	100	0	0	0	0	zmb	Mesh Belt	1																																											0
+Snowclash	100	0	0	0	0	ztb	Battle Belt	1																																											0
+Thudergod's Vigor	100	0	0	0	0	zhb	War Belt	1																																											0
+Vampiregaze	100	0	0	0	0	xh9	Grim Helm	1	0	12	10	manasteal	0	12	12	lifesteal	0	15	15	stamdrain	0	20	20	red-dmg%	0	25	25	red-mag%	0	35	35		0				0				0										0
+Lidless Wall	100	0	0	0	0	xsh	Grim Shield	1																																											0
+Lance Guard	100	0	0	0	0	xpk	Barbed Shield	1																																											0
+Squire's Cover	100	0	0	0	0	uap	Shako	1																																											0
+Boneflame	100	0	0	0	0	ukp	Hydraskull	1																																											0
+Steelpillar	100	0	0	0	0	ulm	Armet	1																																											0
+Nightwing's Veil	100	0	0	0	0	uhl	Giant Conch	1																																											0
+Hightower's Watch	100	0	0	0	0	uhm	Spired Helm	1																																											0
+Crown of Ages	100	0	0	0	0	urn	Corona	1																																											0
+Andariel's Visage	100	0	0	0	0	usk	Demonhead	1																																											0
+Darkfear	100	0	0	0	0	uui	Dusk Shroud	1																																											0
+Dragonscale	100	0	0	0	0	uea	Wyrmhide	1																																											0
+Steel Carapice	100	0	0	0	0	ula	Scarab Husk	1																																											0
+Ashreras Wired Frame	100	0	0	0	0	utu	Wire Fleece	1																																											0
+Gillian's Brazier	100	0	0	0	0	ung	Diamond Mail	1																																											0
+Ravenlore	100	0	0	0	0	ucl	Loricated Mail	1																																											0
+Boneshade	100	0	0	0	0	uhn	Boneweave	1																																											0
+Nethercrow	100	0	0	0	0	urs	Great Hauberk	1																																											0
+Hellwarden's Husk	100	0	0	0	0	upl	Balrog Skin	1																																											0
+Flamebellow	100	0	0	0	0	ult	Hellforged Plate	1																																											0
+Fathom	100	0	0	0	0	uld	Kraken Shell	1																																											0
+Wolfhowl	100	0	0	0	0	uth	Lacquered Plate	1																																											0
+Spirit Ward	100	0	0	0	0	uul	Shadow Plate	1																																											0
+Kira's Guardian	100	0	0	0	0	uar	Sacred Armor	1																																											0
+Ormus' Robes	100	0	0	0	0	utp	Archon Plate	1																																											0
+Gheed's Fortune	100	0	0	0	0	uuc	Heater	1																																											0
+The Vicar	100	0	0	0	0	uml	Luna	1																																											0
+Stormlash	100	0	0	0	0	urg	Hyperion	1																																											0
+Halaberd's Reign	100	0	0	0	0	uit	Monarch	1																																											0
+Parkersor's Calm	100	0	0	0	0	uow	Aegis	1																																											0
+Warriv's Warder	100	0	0	0	0	uts	Ward	1																																											0
+Spike Thorn	100	0	0	0	0	ulg	Bramble Mitts	1																																											0
+Dracul's Grasp	100	0	0	0	0	ubg	Vampirebone Gloves	1																																											0
+Frostwind	100	0	0	0	0	umg	Vambraces	1																																											0
+Templar's Might	100	0	0	0	0	utg	Cruser Gauntlets	1																																											0
+Eschuta's temper	100	0	0	0	0	uhg	Ogre Gauntlets	1																																											0
+Firelizard's Talons	100	0	0	0	0	ulb	Wyrmhide Boots	1																																											0
+Sandstorm Trek	100	0	0	0	0	uvb	Scarabshell Boots	1																																											0
+Marrowwalk	100	0	0	0	0	umb	Boneweave Boots	1																																											0
+Heaven's Light	100	0	0	0	0	utb	Mirrored Boots	1																																											0
+Merman's Speed	100	0	0	0	0	uhb	Myrmidon Greaves	1																																											0
+Arachnid Mesh	100	0	0	0	0	ulc	Spiderweb Sash	1																																											0
+Nosferatu's Coil	100	0	0	0	0	uvc	Vamprefange Belt	1																																											0
+Metalgrid	100	0	0	0	0	umc	Mithril Coil	1																																											0
+Verdugo's Hearty Cord	100	0	0	0	0	utc	Troll Belt	1																																											0
+Sigurd's Staunch	100	0	0	0	0	uhc	Colossus Girdle	1																																											0
+Carrion Wind	100	0	0	0	0	uh9	Bone Visage	1																																											0
+Giantskull	100	0	0	0	0	ush	Troll Nest	1																																											0
+Ironward	100	0	0	0	0	upk	Bladebarrier	1																																											0
+Dummy	100																																																		0
+Dummy	100																																																		0
+Dummy	100																																																		0
+Dummy	100																																																		0
+Dummy	100																																																		0
+Dummy	100																																																		0
+Dummy	100																																																		0
+Dummy	100																																																		0

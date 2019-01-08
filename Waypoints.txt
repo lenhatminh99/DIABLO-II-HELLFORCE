@@ -1,0 +1,40 @@
+*LevelName	LevelID	WayptID	Tab	Hidden	Normal	Nightmare	Hell	UnlockItem	UnlockItem(N)	UnlockItem(H)	ReqItem	ReqItem(N)	ReqItem(H)	KeyItem	KeyItem(N)	KeyItem(H)	KillKeyItem	KillKeyItem(N)	KillKeyItem(H)	*eol
+Act 1 - Town	1	0	0	0	1	1	1													0
+Act 1 - Wilderness 2	3	1	0	1	1	1	1							key	key	key	1	1	1	0
+Act 1 - Wilderness 3	4	2	0	0	1	1	1													0
+Act 1 - Wilderness 4	5	3	0	0	1	1	1													0
+Act 1 - Wilderness 5	6	4	0	0	1	1	1													0
+Act 1 - Courtyard 1	27	5	0	0	1	1	1													0
+Act 1 - Jail 1	29	6	0	0	1	1	1													0
+Act 1 - Courtyard 2	32	7	0	0	1	1	1													0
+Act 1 - Catacombs 2	35	8	0	0	1	1	1													0
+Act 2 - Town	40	9	1	0	1	1	1													0
+Act 2 - Desert 2	42	11	1	0	1	1	1													0
+Act 2 - Desert 3	43	13	1	0	1	1	1													0
+Act 2 - Desert 4	44	14	1	0	1	1	1													0
+Act 2 - Valley of the Kings	46	17	1	0	1	1	1													0
+Act 2 - Sewer 1 B	48	10	1	0	1	1	1													0
+Act 2 - Basement 1	52	15	1	0	1	1	1													0
+Act 2 - Tomb 2 B	57	12	1	0	1	1	1													0
+Act 2 - Arcane	74	16	1	0	1	1	1													0
+Act 3 - Town	75	18	2	0	1	1	1													0
+Act 3 - Jungle 1	76	19	2	0	1	1	1													0
+Act 3 - Jungle 2	77	20	2	0	1	1	1													0
+Act 3 - Jungle 3	78	21	2	0	1	1	1													0
+Act 3 - Kurast 1	79	22	2	0	1	1	1													0
+Act 3 - Kurast 2	80	23	2	0	1	1	1													0
+Act 3 - Kurast 3	81	24	2	0	1	1	1													0
+Act 3 - Travincal	83	25	2	0	1	1	1													0
+Act 3 - Mephisto 2	101	26	2	0	1	1	1													0
+Act 4 - Town	103	27	3	0	1	1	1													0
+Act 4 - Mesa 3	106	28	3	0	1	1	1													0
+Act 4 - Lava 1	107	29	3	0	1	1	1													0
+Act 5 - Town	109	30	4	0	1	1	1													0
+Act 5 - Barricade 1	111	31	4	0	1	1	1													0
+Act 5 - Barricade 2	112	32	4	0	1	1	1													0
+Act 5 - Ice Cave 1	113	33	4	0	1	1	1													0
+Act 5 - Ice Cave 2	115	34	4	0	1	1	1													0
+Act 5 - Barricade Snow	117	36	4	0	1	1	1													0
+Act 5 - Ice Cave 3	118	37	4	0	1	1	1													0
+Act 5 - Temple 2	123	35	4	0	1	1	1													0
+Act 5 - Baal Temple 2	129	38	4	0	1	1	1													0

@@ -1,0 +1,2456 @@
+String	Index
+Auburnfire	Auburnfire
+Gangrene Reaper	Gangrene Reaper
+Easebringer	Easebringer
+Goreflood	Goreflood
+Deathspade	Deathspade
+Longsuffering	Longsuffering
+Lungreaver	Lungreaver
+Bladebone	Bladebone
+Broken Earth	Broken Earth
+Occam's Razor	Occam's Razor
+Mindrend	Mindrend
+Shadazar's Answer	Shadazar's Answer
+Deathflake	Deathflake
+Rakescar	Rakescar
+Bloody Scalp	Bloody Scalp
+Pure Rancor	Pure Rancor
+Coldkill	Coldkill
+Slayer of Trents	Slayer of Trents
+Edge of Forever	Edge of Forever
+Butcher's Pupil	Butcher's Pupil
+Cryohydra	Cryohydra
+Harvest of Souls	Harvest of Souls
+Islestrike	Islestrike
+Cornugon	Cornugon
+Groundshatter	Groundshatter
+Pompe's Wrath	Pompe's Wrath
+Couatl	Couatl
+Antics of the Jester	Antics of the Jester
+Guardian Naga	Guardian Naga
+Marilith	Marilith
+Razoredge	Razoredge
+Death Slaad	Death Slaad
+Moon Blade	Moon Blade
+Beholder	Beholder
+Runemaster	Runemaster
+Elder Tojanida	Elder Tojanida
+Cranebeak	Cranebeak
+Frostwyrm	Frostwyrm
+Deathcleaver	Deathcleaver
+Light Phasm	Light Phasm
+Gracehunter	Gracehunter
+Fechmars Axe	Fechmars Axe
+Night Hag	Night Hag
+Mirth Bringer	Mirth Bringer
+Goreshovel	Goreshovel
+Tendriculos	Tendriculos
+Sandking	Sandking
+The Chieftan	The Chieftan
+Winter Wolf	Winter Wolf
+Nova Spine	Nova Spine
+Brainhew	Brainhew
+Taskmaster's Curse	Taskmaster's Curse
+Curseweaver	Curseweaver
+The Humongous	The Humongous
+Sunblighter	Sunblighter
+Threat of Storms	Threat of Storms
+Warlord's Trust	Warlord's Trust
+Dwarven Honor	Dwarven Honor
+Grandiose Dreams	Grandiose Dreams
+Spellsteel	Spellsteel
+Ravid's Bite	Ravid's Bite
+Spirit Naga	Spirit Naga
+Stormrider	Stormrider
+Brittlequick	Brittlequick
+Tonstrike	Tonstrike
+Boneslayer Blade	Boneslayer Blade
+Ogre's Breath	Ogre's Breath
+Mythslayer	Mythslayer
+The Minataur	The Minataur
+Woodland Beast	Woodland Beast
+Werewolf Slayer	Werewolf Slayer
+Shapeshifter	Shapeshifter
+Ethereal Edge	Ethereal Edge
+Dyer's Eve	Dyer's Eve
+Hellslayer	Hellslayer
+Hero's Welcome	Hero's Welcome
+Messerschmidt's Reaver	Messerschmidt's Reaver
+Nameless Horror	Nameless Horror
+Executioner's Justice	Executioner's Justice
+Epee of Speed	Epee of Speed
+Deviljack	Deviljack
+Rixots Keen	Rixots Keen
+Anadek's Sword	Anadek's Sword
+Briarblade	Briarblade
+Blood Crescent	Blood Crescent
+Sajorn Jinx	Sajorn Jinx
+Chromablade	Chromablade
+Krintizs Skewer	Krintizs Skewer
+Qikadar's Laughter	Qikadar's Laughter
+Fiendslayer	Fiendslayer
+Gleamscythe	Gleamscythe
+Quartz Star	Quartz Star
+Irksome Edge	Irksome Edge
+Azurewrath1	Azurewrath1
+Omni-Slash	Omni-Slash
+Vanquisher	Vanquisher
+Griswolds Edge	Griswolds Edge
+Honor Guard	Honor Guard
+Winterswipe	Winterswipe
+Hellplague	Hellplague
+Orc Slayer	Orc Slayer
+Warrior Untamed	Warrior Untamed
+Culwens Point	Culwens Point
+Bridge of Pain	Bridge of Pain
+Cursebreaker	Cursebreaker
+Bloodletter	Bloodletter
+Darkkon	Darkkon
+Deathfoe	Deathfoe
+Coldsteel Eye	Coldsteel Eye
+Locathah	Locathah
+Death of a Thousand Cuts	Death of a Thousand Cuts
+Hexfire	Hexfire
+Fleshbleeder	Fleshbleeder
+Song of the Damned	Song of the Damned
+Blade of Ali Baba	Blade of Ali Baba
+Pseudodragon	Pseudodragon
+Serpent’s Sharp	Serpent’s Sharp
+Ginther's Rift	Ginther's Rift
+Grimlock	Grimlock
+Dread of the Blade	Dread of the Blade
+Headstriker	Headstriker
+Troglodyte	Troglodyte
+Bane of All Gods	Bane of All Gods
+Plague Bearer	Plague Bearer
+Sahuagin	Sahuagin
+Dark Descent	Dark Descent
+The Atlantian	The Atlantian
+Celestial Lion	Celestial Lion
+Rabbit Slayer	Rabbit Slayer
+Badger's Bite	Badger's Bite
+Djinnslayer	Djinnslayer
+Wight's Touch	Wight's Touch
+Bloodmoon	Bloodmoon
+Megladon's Bite	Megladon's Bite
+Krakken	Krakken
+Lightsabre	Lightsabre
+Azurewrath	Azurewrath
+Deathfriend	Deathfriend
+King's Bounty	King's Bounty
+Rhinoceros Strength	Rhinoceros Strength
+Frostwind	Frostwind
+Owlbear's Attack	Owlbear's Attack
+Call Of Heroes	Call Of Heroes
+Cloaker Beast	Cloaker Beast
+Deathlust	Deathlust
+Shadowfang	Shadowfang
+Blink Dog	Blink Dog
+Coaldark	Coaldark
+Soulflay	Soulflay
+Ettercap	Ettercap
+Hellmessenger	Hellmessenger
+Kinemils Awl	Kinemils Awl
+Yuan-Ti's Venom	Yuan-Ti's Venom
+Oldfather	Oldfather
+Blacktongue	Blacktongue
+Gharbad's Cry	Gharbad's Cry
+Warrior's Challenge	Warrior's Challenge
+Ripsaw	Ripsaw
+Demolisher	Demolisher
+Arctic Edge	Arctic Edge
+The Patriarch	The Patriarch
+Celestial Tiger	Celestial Tiger
+Sweet Agony	Sweet Agony
+Crainte Vomir	Crainte Vomir
+Shirotachi	Shirotachi
+Sudden Epiphany	Sudden Epiphany
+Bing Sz Wang	Bing Sz Wang
+Thunderclap	Thunderclap
+The Mangler	The Mangler
+The Vile Husk	The Vile Husk
+Na-Krul's Power	Na-Krul's Power
+No Quarter Given	No Quarter Given
+Cloudcrack	Cloudcrack
+Black Razor	Black Razor
+Demand for Justice	Demand for Justice
+Todesfaelle Flamme	Todesfaelle Flamme
+Thundercall	Thundercall
+The Quick and the Dead	The Quick and the Dead
+Swordguard	Swordguard
+Dragon's Breach	Dragon's Breach
+Blade Of Mythos	Blade Of Mythos
+Blade of Conan	Blade of Conan
+Vorpal Blade	Vorpal Blade
+Split Skull	Split Skull
+Flamebellow	Flamebellow
+Deadly Hunter	Deadly Hunter
+Doombringer	Doombringer
+Nightscape	Nightscape
+Holy Avenger	Holy Avenger
+Grandmaster's Glory	Grandmaster's Glory
+The Grandfather	The Grandfather
+Bramble Oak	Bramble Oak
+Quickfeint	Quickfeint
+Felloak	Felloak
+Troll's Nail	Troll's Nail
+Oakheart	Oakheart
+Stoutnail	Stoutnail
+Dawn of Skeon	Dawn of Skeon
+Gladiator's Strike	Gladiator's Strike
+Dark Clan Crusher	Dark Clan Crusher
+Umbral's Bat	Umbral's Bat
+Eater of Souls	Eater of Souls
+Fleshrender	Fleshrender
+Stirgi's Club	Stirgi's Club
+Nord's Tenderizer	Nord's Tenderizer
+Blightsummoner	Blightsummoner
+Demonlimb	Demonlimb
+Gnat Sting	Gnat Sting
+Stunhummer	Stunhummer
+Ironstone	Ironstone
+Hammer of Jholm	Hammer of Jholm
+Blasthammer	Blasthammer
+Earthshaker	Earthshaker
+Schaefer's Hammer	Schaefer's Hammer
+Stone Crusher	Stone Crusher
+Famorian's Club	Famorian's Club
+Spiritcrusher	Spiritcrusher
+Bonesob	Bonesob
+Konnan's Maul	Konnan's Maul
+Vilifier	Vilifier
+Steeldriver	Steeldriver
+Hill Giant's Bludgeon	Hill Giant's Bludgeon
+Readiness for War	Readiness for War
+Bloodtree Stump	Bloodtree Stump
+Doom Avatar	Doom Avatar
+Burning Desire	Burning Desire
+The Gavel of Pain	The Gavel of Pain
+Astral Dreadnought	Astral Dreadnought
+Windhammer	Windhammer
+The Cranium Basher	The Cranium Basher
+Earthshifter	Earthshifter
+Hycandra	Hycandra
+Lesson in Pain	Lesson in Pain
+Crushflange	Crushflange
+Dawn's Mist	Dawn's Mist
+Endless Sleep	Endless Sleep
+Bloodrise	Bloodrise
+Lashfire	Lashfire
+Quickening	Quickening
+The Generals Tan Do Li Ga	The Generals Tan Do Li Ga
+Cat Tail	Cat Tail
+Demise of the Weak	Demise of the Weak
+Sureshrill Frost	Sureshrill Frost
+Comet's Tail	Comet's Tail
+Genoa's Trust	Genoa's Trust
+Moonfall	Moonfall
+Efreeti's Eye	Efreeti's Eye
+Frantic Distress	Frantic Distress
+Baezil's Vortex	Baezil's Vortex
+Star Dust	Star Dust
+Fist of Lachdonnan	Fist of Lachdonnan
+Soulgatherer	Soulgatherer
+Baranar's Star	Baranar's Star
+Horizon's Tornado	Horizon's Tornado
+Stormlash	Stormlash
+Angelic Sympathy	Angelic Sympathy
+Ambercall	Ambercall
+Knell Striker	Knell Striker
+Avenger's Honor	Avenger's Honor
+Angel's Grace	Angel's Grace
+Rusthandle	Rusthandle
+Crusader's Wrath	Crusader's Wrath
+Dawnskein	Dawnskein
+Stormeye	Stormeye
+Runestar	Runestar
+Heavenly Wrath	Heavenly Wrath
+Zakarum's Hand	Zakarum's Hand
+Trianthalon's Sprinkler	Trianthalon's Sprinkler
+Dragon Mephit	Dragon Mephit
+The Fetid Sprinkler	The Fetid Sprinkler
+Celestial Knight	Celestial Knight
+Lord of Riddles	Lord of Riddles
+Hand of Blessed Light	Hand of Blessed Light
+Heaven's Light	Heaven's Light
+The Reedeemer	The Reedeemer
+Celestial Judgment	Celestial Judgment
+Wrath Of Heaven	Wrath Of Heaven
+Wrath of the Seraphim	Wrath of the Seraphim
+Ironward	Ironward
+Vampire's Fang	Vampire's Fang
+Darkflayer	Darkflayer
+Gull	Gull
+Gornnagal's Dirk	Gornnagal's Dirk
+Prisoner’s Anguish	Prisoner’s Anguish
+The Diggler	The Diggler
+Dragon Talon	Dragon Talon
+Zenkiller	Zenkiller
+The Jade Tan Do	The Jade Tan Do
+Moonsea Razor	Moonsea Razor
+Deathprick	Deathprick
+Irices Shard	Irices Shard
+Cyan Bloodbane	Cyan Bloodbane
+Chimera's Claw	Chimera's Claw
+Spineripper	Spineripper
+Rattlesnake Bite	Rattlesnake Bite
+Sweetwhisper	Sweetwhisper
+Heart Carver	Heart Carver
+Halfling's Blade	Halfling's Blade
+Basalisk's Touch	Basalisk's Touch
+Blackbog's Sharp	Blackbog's Sharp
+Thieve's Lockpicker	Thieve's Lockpicker
+Falcon Talon	Falcon Talon
+Stormspike	Stormspike
+Lich Dagger	Lich Dagger
+Wizardspike	Wizardspike
+Elven Mystral	Elven Mystral
+Fall Of Myth Drannor	Fall Of Myth Drannor
+Chaos Wail	Chaos Wail
+Fleshripper	Fleshripper
+Dagger of Kara'Tir	Dagger of Kara'Tir
+Ghostflame	Ghostflame
+Sleepthorn	Sleepthorn
+Zealot's Branch	Zealot's Branch
+The Dragon Chang	The Dragon Chang
+Mako's Pierce	Mako's Pierce
+Deceiver’s Device	Deceiver’s Device
+Razortine	Razortine
+Spear of Hydragoon	Spear of Hydragoon
+Fangtree	Fangtree
+Bloodthief	Bloodthief
+Dragon Turtle	Dragon Turtle
+Ruemonger	Ruemonger
+Lance of Yaggai	Lance of Yaggai
+Footman's Picket	Footman's Picket
+Woodclaw	Woodclaw
+The Tannr Gorerod	The Tannr Gorerod
+Old Wolf	Old Wolf
+Mandrake	Mandrake
+The Impaler	The Impaler
+Flametongue	Flametongue
+Frostband	Frostband
+Kelpie Snare	Kelpie Snare
+Dragoon's Shank	Dragoon's Shank
+Fear and Loathing	Fear and Loathing
+Soulfeast Tine	Soulfeast Tine
+Dragon Soul	Dragon Soul
+Dreams of Empire	Dreams of Empire
+Hone Sundan	Hone Sundan
+Imperial Dragonlance	Imperial Dragonlance
+Jouster's Boast	Jouster's Boast
+Spire of Honor	Spire of Honor
+Ice Mephit	Ice Mephit
+Arioc's Needle	Arioc's Needle
+Kuo-Toa's Spear	Kuo-Toa's Spear
+Breath Of Fire	Breath Of Fire
+Imperial Passion	Imperial Passion
+Viperfork	Viperfork
+Spirit of Lachdonan	Spirit of Lachdonan
+Spirit Light	Spirit Light
+Prancing Pike	Prancing Pike
+Steelpillar	Steelpillar
+Hylocan Axe	Hylocan Axe
+Knave's Ascendence	Knave's Ascendence
+Dimoaks Hew	Dimoaks Hew
+Simpering Edge	Simpering Edge
+Oreseeker	Oreseeker
+Steelgoad	Steelgoad
+Slayer of Fields	Slayer of Fields
+Rebuker	Rebuker
+Soul Harvest	Soul Harvest
+Axe of Sytherdan	Axe of Sytherdan
+Landsplitter	Landsplitter
+The Battlebranch	The Battlebranch
+Snowy Sky	Snowy Sky
+Ripskin	Ripskin
+Woestave	Woestave
+Sommerstrike Edge	Sommerstrike Edge
+Slayer’s Debt	Slayer’s Debt
+The Grim Reaper	The Grim Reaper
+Count Kidran's Scythe	Count Kidran's Scythe
+Fire Mephit	Fire Mephit
+The Meat Scraper	The Meat Scraper
+Griefspawn Touch	Griefspawn Touch
+Sunderblight	Sunderblight
+Blackleach Blade	Blackleach Blade
+Harbormaster's Victory	Harbormaster's Victory
+Survival Instinct	Survival Instinct
+Athena's Wrath	Athena's Wrath
+Moonlight Edge	Moonlight Edge
+Trial by Fire	Trial by Fire
+Pierre Tombale Couant	Pierre Tombale Couant
+Kritchan's Ire	Kritchan's Ire
+Father of Nations	Father of Nations
+Husoldal Evo	Husoldal Evo
+Killer's Glee	Killer's Glee
+Dawn of the Dead	Dawn of the Dead
+Grim's Burning Dead	Grim's Burning Dead
+Ogre Cheiftain's Law	Ogre Cheiftain's Law
+Bonehew	Bonehew
+Titan's Reach	Titan's Reach
+Kydra's Judgement	Kydra's Judgement
+Winter Solstice	Winter Solstice
+The Reaper's Toll	The Reaper's Toll
+Gatecleaver	Gatecleaver
+Tomb Reaver	Tomb Reaver
+Cloud Giant's Axe	Cloud Giant's Axe
+Dreadfear	Dreadfear
+Kraken's Backlash	Kraken's Backlash
+Stormspire	Stormspire
+Invoker	Invoker
+Puzzler’s Mystery	Puzzler’s Mystery
+Bane Ash	Bane Ash
+Touch of Evil	Touch of Evil
+Puppeteer's Staff	Puppeteer's Staff
+Serpent Lord1	Serpent Lord1
+Wizard's Rule	Wizard's Rule
+Sage's Retort	Sage's Retort
+Lazarus Spire	Lazarus Spire
+Staff of the Arch-Magus	Staff of the Arch-Magus
+Strange Alchemy	Strange Alchemy
+The Salamander	The Salamander
+Warmth of Ash	Warmth of Ash
+Riddlesolver	Riddlesolver
+The Iron Jang Bong	The Iron Jang Bong
+Arctic Frost	Arctic Frost
+Staff of Shadows	Staff of Shadows
+Razorswitch	Razorswitch
+Ter'Angreal	Ter'Angreal
+Silence of the Sphinx	Silence of the Sphinx
+Ribcracker	Ribcracker
+Staff of Valere	Staff of Valere
+Rubydawn	Rubydawn
+Chromatic Ire	Chromatic Ire
+Knight's Prophet	Knight's Prophet
+Grace of Isis	Grace of Isis
+Warpspear	Warpspear
+Arcane Protection	Arcane Protection
+Survivor's Sonata	Survivor's Sonata
+Skullcollector	Skullcollector
+Road to Perdition	Road to Perdition
+Jadrik's Torment	Jadrik's Torment
+Ogden's Wisdom	Ogden's Wisdom
+Gorgon Strength	Gorgon Strength
+Light of Ra	Light of Ra
+Ondal's Wisdom	Ondal's Wisdom
+Summoner’s Risk	Summoner’s Risk
+Sanctuary	Sanctuary
+Everkeeper	Everkeeper
+Mang Song's Lesson	Mang Song's Lesson
+Acolyte's Wand	Acolyte's Wand
+Bitter Sorrow	Bitter Sorrow
+Iros Torch	Iros Torch
+Ladrina's Enchantment	Ladrina's Enchantment
+Ire of Astaroth	Ire of Astaroth
+Maelstromwrath	Maelstromwrath
+Skeleton's Claw	Skeleton's Claw
+Child's Laughter	Child's Laughter
+Gravenspine	Gravenspine
+Dracolich Fang	Dracolich Fang
+Scream of Despair	Scream of Despair
+Umes Lament	Umes Lament
+Epoch's End	Epoch's End
+Apoclypse Fire	Apoclypse Fire
+Suicide Branch	Suicide Branch
+Medusa's Gaze	Medusa's Gaze
+Huclavee's Flinch	Huclavee's Flinch
+Carin Shard	Carin Shard
+Asylum's Ward	Asylum's Ward
+Wand of Fireballs	Wand of Fireballs
+Arm of King Leoric	Arm of King Leoric
+Nullwand	Nullwand
+Gravedancer's Union	Gravedancer's Union
+Blackhand Key	Blackhand Key
+Voice of Reason	Voice of Reason
+Darkmantle	Darkmantle
+Chorus of the Cursed	Chorus of the Cursed
+Specral Immage	Specral Immage
+Vengeance of the Wronged	Vengeance of the Wronged
+Boneshade	Boneshade
+Pull of Darkness	Pull of Darkness
+Deaths's Web	Deaths's Web
+Freedom's Flight	Freedom's Flight
+Violetwing	Violetwing
+Pluckeye	Pluckeye
+Target's	Target's
+Carrion Wing	Carrion Wing
+Witherstring	Witherstring
+Elven Bow of Duadon	Elven Bow of Duadon
+Gale Song	Gale Song
+Rimeraven	Rimeraven
+Silver Oak Bow	Silver Oak Bow
+Warpwind	Warpwind
+Piercerib	Piercerib
+Shayira's Flight	Shayira's Flight
+Willowsting	Willowsting
+Pullspite	Pullspite
+Kirre Strike	Kirre Strike
+Beeswarm	Beeswarm
+Wizendraw	Wizendraw
+Sylvan Battle Bow	Sylvan Battle Bow
+Ranger's Sting	Ranger's Sting
+Hellclap	Hellclap
+Telena's War Bow	Telena's War Bow
+Finalflight	Finalflight
+Blastbark	Blastbark
+Teldicia's Sting	Teldicia's Sting
+Dead to the World	Dead to the World
+Skystrike	Skystrike
+Sadira	Sadira
+Iceweaver	Iceweaver
+Riphook	Riphook
+Fatima Ravenclaw	Fatima Ravenclaw
+Bow of the Dead	Bow of the Dead
+Kuko Shakaku	Kuko Shakaku
+Larissa's Aim	Larissa's Aim
+Ranger's Path	Ranger's Path
+Endlesshail	Endlesshail
+Hailstrike	Hailstrike
+Pride's Paradox	Pride's Paradox
+Whichwild String	Whichwild String
+Heartseeker	Heartseeker
+Crimson Crusade	Crimson Crusade
+Cliffkiller	Cliffkiller
+Dune Runner	Dune Runner
+Remorhaz	Remorhaz
+Magewrath	Magewrath
+Ghost Mount	Ghost Mount
+Harper's Call	Harper's Call
+Godstrike Arch	Godstrike Arch
+Arachnid's Bite	Arachnid's Bite
+Black Widow	Black Widow
+Foxfire Leaf	Foxfire Leaf
+Razor Strike	Razor Strike
+Golgomere	Golgomere
+Death Shade	Death Shade
+Oathbow	Oathbow
+Phantom Pegasus	Phantom Pegasus
+Nine Lives Stealer	Nine Lives Stealer
+Celestial Strike	Celestial Strike
+Elflord's Victory	Elflord's Victory
+Eaglehorn	Eaglehorn
+Patron of Perversity	Patron of Perversity
+Widowmaker	Widowmaker
+Adamantine Bow	Adamantine Bow
+Windforce	Windforce
+Replenishing Quiver	Replenishing Quiver
+Quiver of Piercing	Quiver of Piercing
+Quiver of Slaying	Quiver of Slaying
+Rethral	Rethral
+Nail Flinger	Nail Flinger
+Leadcrow	Leadcrow
+Piercing Bolt	Piercing Bolt
+Janglebright	Janglebright
+Ichorsting	Ichorsting
+Harpo Bogglinn	Harpo Bogglinn
+Spikethrower	Spikethrower
+Hellcast	Hellcast
+Synthalus	Synthalus
+King's Nail	King's Nail
+Doomspittle	Doomspittle
+Kyuss' Crossbow	Kyuss' Crossbow
+Garlana Firebolt	Garlana Firebolt
+Langer Briser	Langer Briser
+Giant Hair Crossbow	Giant Hair Crossbow
+Raven Myst	Raven Myst
+Pus Spiter	Pus Spiter
+Whyte Stag	Whyte Stag
+Senmet's Boltcaster	Senmet's Boltcaster
+Buriza-Do Kyanon	Buriza-Do Kyanon
+Ashira's Stunbeam	Ashira's Stunbeam
+Widow's Refrain	Widow's Refrain
+Demon Machine	Demon Machine
+Stoneblaster	Stoneblaster
+Doubleshot Machine	Doubleshot Machine
+Wightslayer	Wightslayer
+Grey Render	Grey Render
+Bluebeard	Bluebeard
+Hellrack	Hellrack
+Thor's Bolt	Thor's Bolt
+Gutsiphon	Gutsiphon
+Replenishing Bolt Case	Replenishing Bolt Case
+Bolt Case of Piercing	Bolt Case of Piercing
+Bolt Case of Slaying	Bolt Case of Slaying
+Hippogriff Wing	Hippogriff Wing
+Leafrazor	Leafrazor
+Stone Eater	Stone Eater
+Amazon's Kiss	Amazon's Kiss
+Skyglow	Skyglow
+Luck Chaser	Luck Chaser
+Chaoskiller	Chaoskiller
+Teeth of Infinity	Teeth of Infinity
+Pridebreaker	Pridebreaker
+Cadin'Sor	Cadin'Sor
+Sting of Humiliation	Sting of Humiliation
+Mind Creche	Mind Creche
+Dancing Scarecrow	Dancing Scarecrow
+Splinterfreeze	Splinterfreeze
+Baba Yaga's Needle	Baba Yaga's Needle
+Aiel Javelins	Aiel Javelins
+Rhyme of the Bard	Rhyme of the Bard
+Severalkill	Severalkill
+Gnomebane	Gnomebane
+Weeping at the Gate	Weeping at the Gate
+Trump of Jericho	Trump of Jericho
+Artimus's Spiculum	Artimus's Spiculum
+Cursed One	Cursed One
+Hatemonger	Hatemonger
+Confusion Flight	Confusion Flight
+Blessed One	Blessed One
+Warbreeder	Warbreeder
+Silver-Tipped Harpoons	Silver-Tipped Harpoons
+Blessings of Osiris	Blessings of Osiris
+Bowel Twister	Bowel Twister
+Jaguar's Claw	Jaguar's Claw
+Arc of the Rainbow	Arc of the Rainbow
+Woundripper	Woundripper
+Summerstrike	Summerstrike
+Clockwork Horror	Clockwork Horror
+Demon's Arch	Demon's Arch
+Invisible Stalker	Invisible Stalker
+Wraithflight	Wraithflight
+Serpent Lord	Serpent Lord
+Gargoyle's Bite	Gargoyle's Bite
+Spectral Slayer	Spectral Slayer
+Tonguecutter	Tonguecutter
+Solstice Edge	Solstice Edge
+Oakplume	Oakplume
+Timbersplitter	Timbersplitter
+Spleen Feaster	Spleen Feaster
+Banshee's Cry	Banshee's Cry
+Despicable Behavior	Despicable Behavior
+The Scalper	The Scalper
+Axes of Jahadra	Axes of Jahadra
+Instigator	Instigator
+Brainraver	Brainraver
+Winged Serpent	Winged Serpent
+Gimmershred	Gimmershred
+Golden Wyndlass	Golden Wyndlass
+Lacerator	Lacerator
+Sheera's Knives	Sheera's Knives
+Subtle Slice	Subtle Slice
+Splinterbeam	Splinterbeam
+Deadly Needle	Deadly Needle
+Initiator	Initiator
+Dead Scoffer	Dead Scoffer
+Swarming Blades	Swarming Blades
+Silt Runner	Silt Runner
+Deathbit	Deathbit
+Darts of Evermeet	Darts of Evermeet
+Ravenstar	Ravenstar
+Pain Harvester	Pain Harvester
+Fallen Glory	Fallen Glory
+Shard of the North Star	Shard of the North Star
+Frostbite Shard	Frostbite Shard
+Warshrike	Warshrike
+Hungerpang	Hungerpang
+Ashenwrath	Ashenwrath
+Greyform	Greyform
+Ogden's Shroud	Ogden's Shroud
+JuJu Flame	JuJu Flame
+Blinkbats Form	Blinkbats Form
+Armor of Gloom	Armor of Gloom
+Stinkshroud	Stinkshroud
+The Centurion	The Centurion
+Scarab of Protection	Scarab of Protection
+Gemini Coat	Gemini Coat
+Twitchthroe	Twitchthroe
+The Shadowed One	The Shadowed One
+Steelflesh	Steelflesh
+Darkglow	Darkglow
+Red Dragon Scails	Red Dragon Scails
+Mandrake's Bloom	Mandrake's Bloom
+Hawkmail	Hawkmail
+Ghosly Chainmail	Ghosly Chainmail
+Xanadu Dreams	Xanadu Dreams
+Sparking Mail	Sparking Mail
+Breastplate of Gond	Breastplate of Gond
+Shattering Blow	Shattering Blow
+Venomsward	Venomsward
+Starsong	Starsong
+Russetfire	Russetfire
+Iceblink	Iceblink
+Armor of Warmth	Armor of Warmth
+Celestial Revelation	Celestial Revelation
+Boneflesh	Boneflesh
+Dreamscape	Dreamscape
+Ion Storm	Ion Storm
+Rockfleece	Rockfleece
+A Knight's Tale	A Knight's Tale
+Golem’s Gain	Golem’s Gain
+Rattlecage	Rattlecage
+Kaz's Battle Armor	Kaz's Battle Armor
+Halcyon Shroud	Halcyon Shroud
+Goldskin	Goldskin
+Greyhawk Dragon	Greyhawk Dragon
+Killing Blow	Killing Blow
+Victors Silk	Victors Silk
+Weightless Grace	Weightless Grace
+Madness of Chthulu	Madness of Chthulu
+Heavenly Garb	Heavenly Garb
+Rainbow Cloak	Rainbow Cloak
+Gillian's Brazier	Gillian's Brazier
+The Spirit Shroud	The Spirit Shroud
+Anaconda Skin	Anaconda Skin
+Scavanger's Carapace	Scavanger's Carapace
+Skin of the Vipermagi	Skin of the Vipermagi
+Torn Flesh of Souls	Torn Flesh of Souls
+The Defiler's Flesh	The Defiler's Flesh
+Skin of the Flayerd One	Skin of the Flayerd One
+Lilt of the Dryad	Lilt of the Dryad
+Cold Comfort	Cold Comfort
+Ironpelt	Ironpelt
+Heartbane	Heartbane
+Adamantine Mail	Adamantine Mail
+Spiritforge	Spiritforge
+Weakest Link	Weakest Link
+Panic of Thousands	Panic of Thousands
+Crow Caw	Crow Caw
+Drow Chainmail	Drow Chainmail
+Disparate Paths	Disparate Paths
+Shaftstop	Shaftstop
+Tesla's Cuirass	Tesla's Cuirass
+Mother’s Milk	Mother’s Milk
+Duriel's Shell	Duriel's Shell
+Brimstone Hearth	Brimstone Hearth
+Scars of the Forefathers	Scars of the Forefathers
+Skullder's Ire	Skullder's Ire
+Demonspike Coat	Demonspike Coat
+Succulent Sin	Succulent Sin
+Guardian Angel	Guardian Angel
+Bloodlust Frenzy	Bloodlust Frenzy
+Seaflame	Seaflame
+Toothrow	Toothrow
+Royal Plate	Royal Plate
+Nightcrawler	Nightcrawler
+Atma's Wail	Atma's Wail
+Shambling Mound	Shambling Mound
+Evening Sky	Evening Sky
+Black Hades	Black Hades
+Adamantine Plate	Adamantine Plate
+Iceskin	Iceskin
+Corpsemourn	Corpsemourn
+Plate of Fistindantalas	Plate of Fistindantalas
+Serendipity	Serendipity
+Que-Hegan's Wisdon	Que-Hegan's Wisdon
+Blanket of Stars	Blanket of Stars
+Ormus' Robes	Ormus' Robes
+Ancient Dragon	Ancient Dragon
+Crescent of Secrets	Crescent of Secrets
+Zaratan Hide	Zaratan Hide
+Aprhodite's Girdle	Aprhodite's Girdle
+Wyrmbane	Wyrmbane
+The Gladiator's Bane	The Gladiator's Bane
+Adamantine Links	Adamantine Links
+Feathering Mithril	Feathering Mithril
+Will-O'-Wisp	Will-O'-Wisp
+Golden Lotus	Golden Lotus
+Chains of the Abyss	Chains of the Abyss
+Tarrasque Hide	Tarrasque Hide
+Celestial Unicorn	Celestial Unicorn
+Gray God's Mantle	Gray God's Mantle
+Diablo's Scale	Diablo's Scale
+Arkaine's Valor	Arkaine's Valor
+Hellshifter	Hellshifter
+Lunatic Fringe	Lunatic Fringe
+Ocean’s Embrace	Ocean’s Embrace
+Leviathan	Leviathan
+Lachdonnan's Heart	Lachdonnan's Heart
+Pride of the Barony	Pride of the Barony
+Shadowtrick	Shadowtrick
+Steel Carapice	Steel Carapice
+Tyrael's Might	Tyrael's Might
+Templar's Might	Templar's Might
+Heaven’s Treasure	Heaven’s Treasure
+Legacy of the Eternals	Legacy of the Eternals
+Nameweaver	Nameweaver
+Trickster’s Guise	Trickster’s Guise
+War Bonnet	War Bonnet
+Liespreader	Liespreader
+Devourer of Dreams	Devourer of Dreams
+Tarnhelm	Tarnhelm
+Barbazu's Smile	Barbazu's Smile
+Freedom's Façade	Freedom's Façade
+Coif of Glory	Coif of Glory
+Harpy's Call	Harpy's Call
+Equinox Visor	Equinox Visor
+Duskdeep	Duskdeep
+Satyr's Speech	Satyr's Speech
+Hindsight	Hindsight
+Wormskull	Wormskull
+Fool's Crest	Fool's Crest
+Morning's Tears	Morning's Tears
+Howltusk	Howltusk
+Gaiden's Loss	Gaiden's Loss
+Crown of Thorns	Crown of Thorns
+Undead Crown	Undead Crown
+Blindman's Bluff	Blindman's Bluff
+Treachery’s Allure	Treachery’s Allure
+The Face of Horror	The Face of Horror
+Pepin's Blessing	Pepin's Blessing
+Hushmaker	Hushmaker
+Peasent Crown	Peasent Crown
+Drunken Fury	Drunken Fury
+Neonate's Sallet	Neonate's Sallet
+Rockstopper	Rockstopper
+Helm of Ra	Helm of Ra
+Troubled Thoughts	Troubled Thoughts
+Stealskull	Stealskull
+Knight's Crest	Knight's Crest
+Wraithwatch	Wraithwatch
+Darksight Helm	Darksight Helm
+Gotterdamerung	Gotterdamerung
+Embracing Solitude	Embracing Solitude
+Valkiry Wing	Valkiry Wing
+Usurper's Ambition	Usurper's Ambition
+Reign of Deceit	Reign of Deceit
+Crown of Thieves	Crown of Thieves
+Wraithshadow	Wraithshadow
+Archnemesis	Archnemesis
+Blackhorn's Face	Blackhorn's Face
+Ghoulslayer	Ghoulslayer
+Skull of Fistindantalas	Skull of Fistindantalas
+Vampiregaze	Vampiregaze
+Bane's Dark Wisdom	Bane's Dark Wisdom
+Harlequin Crest	Harlequin Crest
+Overlord's Helm	Overlord's Helm
+Slaver's Price	Slaver's Price
+Steelshade	Steelshade
+Darkfear	Darkfear
+Conch of Dismay	Conch of Dismay
+Judas Kiss	Judas Kiss
+Veil of Steel	Veil of Steel
+Nightwing's Veil	Nightwing's Veil
+King Conan's Rule	King Conan's Rule
+Crown of Ages	Crown of Ages
+Lolith's Crest	Lolith's Crest
+Andariel's Visage	Andariel's Visage
+Kiss of the Vampire	Kiss of the Vampire
+Giantskull	Giantskull
+Fairweather	Fairweather
+Muddled Thoughts	Muddled Thoughts
+Charon's Token	Charon's Token
+Gainsayer	Gainsayer
+Threatspeaker	Threatspeaker
+Sorcerer's Cache	Sorcerer's Cache
+Gillian's Hairpin	Gillian's Hairpin
+Mystic Angel	Mystic Angel
+Kira's Guardian	Kira's Guardian
+Blindsight	Blindsight
+Royal Circlet	Royal Circlet
+Griffon's Eye	Griffon's Eye
+Lightreaper	Lightreaper
+Traitor’s Mark	Traitor’s Mark
+Pelta Lunata	Pelta Lunata
+Golgomere's Shield	Golgomere's Shield
+Skein of Deceit	Skein of Deceit
+Umbral Disk	Umbral Disk
+Crest of the Horned Society	Crest of the Horned Society
+Lepertouch	Lepertouch
+Stormguild	Stormguild
+Doomhedge	Doomhedge
+Cacophony	Cacophony
+Wall of the Eyeless	Wall of the Eyeless
+Fanged Shield	Fanged Shield
+Debtfinisher	Debtfinisher
+Swordback Hold	Swordback Hold
+Crest of Avalon	Crest of Avalon
+Killhunger	Killhunger
+Steelclash	Steelclash
+Bigby's Crushing Fist	Bigby's Crushing Fist
+Knight's Dawn	Knight's Dawn
+Bverrit Keep	Bverrit Keep
+Pathfinder	Pathfinder
+Shield of Osirus	Shield of Osirus
+The Ward	The Ward
+Yemista's Defender	Yemista's Defender
+Mongolian Trust	Mongolian Trust
+Visceratuant	Visceratuant
+Doom's Mirror	Doom's Mirror
+Undead Buckler	Undead Buckler
+Mosers Blessed Circle	Mosers Blessed Circle
+Savant Sin	Savant Sin
+Spellbreaker	Spellbreaker
+Stormchaser	Stormchaser
+Under Dragon's Wing	Under Dragon's Wing
+Wishgranter	Wishgranter
+Tiamat's Rebuke	Tiamat's Rebuke
+Adamantine Shield	Adamantine Shield
+Shieldmaiden's Shield	Shieldmaiden's Shield
+Kerke's Sanctuary	Kerke's Sanctuary
+Dreadwall	Dreadwall
+Crusader's Wall	Crusader's Wall
+Radimant's Sphere	Radimant's Sphere
+Ghoulspawner	Ghoulspawner
+Lichward	Lichward
+Lidless Wall	Lidless Wall
+Raptarfang	Raptarfang
+Razorbite Deflecter	Razorbite Deflecter
+Lance Guard	Lance Guard
+Chill of Winter	Chill of Winter
+Sun Tormenter	Sun Tormenter
+Solar Eclipse	Solar Eclipse
+Blackoak Shield	Blackoak Shield
+Shield of Myth	Shield of Myth
+Safewarden	Safewarden
+Fortress of Solitude	Fortress of Solitude
+Stormshield	Stormshield
+Lachdonnan's Guard	Lachdonnan's Guard
+Medusa's Gaze1	Medusa's Gaze1
+Braced for Battle	Braced for Battle
+Spirit Ward	Spirit Ward
+Cry of the Wretched	Cry of the Wretched
+Headhunter's Glory	Headhunter's Glory
+Baal's Wing	Baal's Wing
+Spike Thorn	Spike Thorn
+Blisterpain	Blisterpain
+Goblin Touch	Goblin Touch
+The Hand of Broc	The Hand of Broc
+Healing Touch	Healing Touch
+Fiendfeast	Fiendfeast
+Bloodfist	Bloodfist
+Horseman's Gloves	Horseman's Gloves
+Green God's Bracers	Green God's Bracers
+Chance Guards	Chance Guards
+Prismatic Gauntlets	Prismatic Gauntlets
+Skein of Pain	Skein of Pain
+Magefist	Magefist
+Viridian Gloves	Viridian Gloves
+Firesign	Firesign
+Frostburn	Frostburn
+Devil’s Invocation	Devil’s Invocation
+Marauder's Claw	Marauder's Claw
+Venom Grip	Venom Grip
+Lady of the Lake	Lady of the Lake
+Conspiracy of Thieves	Conspiracy of Thieves
+Gravepalm	Gravepalm
+Spikefiend Bracers	Spikefiend Bracers
+Rapturous Blessings	Rapturous Blessings
+Ghoulhide	Ghoulhide
+Warlock's Touch	Warlock's Touch
+Gryphon's Claw	Gryphon's Claw
+Lavagout	Lavagout
+Burning Soul	Burning Soul
+Threat of Retribution	Threat of Retribution
+Hellmouth	Hellmouth
+Mephisto's Claw	Mephisto's Claw
+Griefspawn	Griefspawn
+Bloodyearn	Bloodyearn
+Dracul's Grasp	Dracul's Grasp
+Lachdonnan's Bracers	Lachdonnan's Bracers
+Souldrain	Souldrain
+Paladin's Quest	Paladin's Quest
+Hellhunger	Hellhunger
+Black Lotus	Black Lotus
+Steelrend	Steelrend
+Cheetah Speed	Cheetah Speed
+Marathon Slipper	Marathon Slipper
+Hotspur	Hotspur
+Gillian's Boots	Gillian's Boots
+Angel's Tread	Angel's Tread
+Gorefoot	Gorefoot
+Pepin's Grace	Pepin's Grace
+Bonemesh	Bonemesh
+Treads of Cthon	Treads of Cthon
+Dawn Scion	Dawn Scion
+Lilith's Heels	Lilith's Heels
+Goblin Toe	Goblin Toe
+Dark Familiar	Dark Familiar
+Grimleaper	Grimleaper
+Tearhaunch	Tearhaunch
+Hooves of Satan	Hooves of Satan
+Deepwander	Deepwander
+Infernostride	Infernostride
+Asheara's Slippers	Asheara's Slippers
+Road to Perdition1	Road to Perdition1
+Waterwalk	Waterwalk
+Whirling Dervish	Whirling Dervish
+Zebrastride	Zebrastride
+Silkweave	Silkweave
+Halbu's Gift	Halbu's Gift
+Zero Effect	Zero Effect
+Wartraveler	Wartraveler
+River Stalker	River Stalker
+Doubtraiser	Doubtraiser
+Gorerider	Gorerider
+Dance of the Cobra	Dance of the Cobra
+Stallion Hooves	Stallion Hooves
+Thoqqua's Slipper	Thoqqua's Slipper
+Sandstorm Trek	Sandstorm Trek
+Hollowed Ground	Hollowed Ground
+Marrowwalk	Marrowwalk
+Stairway to Heaven	Stairway to Heaven
+Lustwander	Lustwander
+Wild Horses	Wild Horses
+Shadowdancer	Shadowdancer
+Bloodrune	Bloodrune
+Ivywrap	Ivywrap
+Lenyms Cord	Lenyms Cord
+Ratman's Rope	Ratman's Rope
+Spiritseeker	Spiritseeker
+Snakecord	Snakecord
+Belt of Evil	Belt of Evil
+Wreath of Suffering	Wreath of Suffering
+Nightsmoke	Nightsmoke
+Crocodile Wrap	Crocodile Wrap
+Pirate's Faith	Pirate's Faith
+Goldwrap	Goldwrap
+Pandemonium	Pandemonium
+Leash of Cerebus	Leash of Cerebus
+Bladebuckle	Bladebuckle
+Warriv's Coin	Warriv's Coin
+Xenophobe	Xenophobe
+String of Ears	String of Ears
+Megladon Wrap	Megladon Wrap
+Wave Whipper	Wave Whipper
+Razortail	Razortail
+Meshif's Coil	Meshif's Coil
+Weakling’s Whimper	Weakling’s Whimper
+Gloomstrap	Gloomstrap
+Assassin Vine	Assassin Vine
+Fortune's Fool	Fortune's Fool
+Snowclash	Snowclash
+The Art of War	The Art of War
+Shattered Dreams	Shattered Dreams
+Thudergod's Vigor	Thudergod's Vigor
+Duskwreath	Duskwreath
+Arachnid Mesh	Arachnid Mesh
+Dreadfury	Dreadfury
+Nosferatu's Coil	Nosferatu's Coil
+Kashya's Ward	Kashya's Ward
+Verdugo's Hearty Cord	Verdugo's Hearty Cord
+Wisdom's Wrap	Wisdom's Wrap
+Ecstacy of Ishtar	Ecstacy of Ishtar
+Lachdonnan's Wrap	Lachdonnan's Wrap
+Ogre's Embrace	Ogre's Embrace
+Damsel of Destruction	Damsel of Destruction
+Bleeding Branch	Bleeding Branch
+Angelsong	Angelsong
+Kashya's Retort	Kashya's Retort
+Elvenbrand	Elvenbrand
+Ragnarok Sliver	Ragnarok Sliver
+Brightmangler	Brightmangler
+Abyssal Torment	Abyssal Torment
+Adamantine Leaf	Adamantine Leaf
+Distance Strike	Distance Strike
+The Four Winds	The Four Winds
+Lycander's Aim	Lycander's Aim
+Laurana's Elven Bow	Laurana's Elven Bow
+Bloodraven's Charge	Bloodraven's Charge
+Wintershock	Wintershock
+Quicksilver	Quicksilver
+Shieldmaiden's Toss	Shieldmaiden's Toss
+Hastemaster	Hastemaster
+Raptorshaft	Raptorshaft
+Lady in Waiting	Lady in Waiting
+Sister of the Sun	Sister of the Sun
+Titan's Revenge	Titan's Revenge
+Pegasus Wing	Pegasus Wing
+Thunderstroke	Thunderstroke
+Wrathshifter	Wrathshifter
+Hawkfire	Hawkfire
+Stygian Harlot	Stygian Harlot
+Sepia Shard	Sepia Shard
+Vile Temptress	Vile Temptress
+Silverdawn	Silverdawn
+Murder’s Mistress	Murder’s Mistress
+Lycander's Flank	Lycander's Flank
+Valkyrie's Calling	Valkyrie's Calling
+Stoneraven	Stoneraven
+Amanda's Point	Amanda's Point
+Manticore's Retort	Manticore's Retort
+Queasespreader	Queasespreader
+Sparrow's Trill	Sparrow's Trill
+Cyanstrike	Cyanstrike
+Flicker Cinch	Flicker Cinch
+Revoker	Revoker
+Soul Stinger	Soul Stinger
+Zapcaster	Zapcaster
+Thought Splinter	Thought Splinter
+Unseeing Eye	Unseeing Eye
+Eternity Cable	Eternity Cable
+Terminus Rod	Terminus Rod
+Dreamsplitter	Dreamsplitter
+Drehya's Globe	Drehya's Globe
+Murdering Shard	Murdering Shard
+Starbreaker	Starbreaker
+Dawn Shadow	Dawn Shadow
+Manna from Heaven	Manna from Heaven
+Desecration Sigil	Desecration Sigil
+Quandry of the Queen	Quandry of the Queen
+The Oculus	The Oculus
+Star of Bethlehem	Star of Bethlehem
+Haven of Light	Haven of Light
+Utterance of Power	Utterance of Power
+Eschuta's temper	Eschuta's temper
+Star of David	Star of David
+Soul Of The Tanar'Ri	Soul Of The Tanar'Ri
+Unity of Mind	Unity of Mind
+Athena’s Tirade	Athena’s Tirade
+Oracle's Riddle	Oracle's Riddle
+Fathom	Fathom
+Blanched Death	Blanched Death
+Goblin Grin	Goblin Grin
+Paingiver	Paingiver
+Death’s Witness	Death’s Witness
+Death Mauler	Death Mauler
+Scalphunter	Scalphunter
+Steel Weevil	Steel Weevil
+Sinister Smile	Sinister Smile
+Undead Beholder	Undead Beholder
+Chiaroscuro Visage	Chiaroscuro Visage
+King Tut	King Tut
+Janus' Face	Janus' Face
+Mystery of Life	Mystery of Life
+Carrion Comfort	Carrion Comfort
+Fallen Hero's Disgrace	Fallen Hero's Disgrace
+Rictus of the Joker	Rictus of the Joker
+Vow of Revenge	Vow of Revenge
+Dreamsender	Dreamsender
+Putrid Defiler	Putrid Defiler
+Homunculus	Homunculus
+Venomlord's Visage	Venomlord's Visage
+Reaper's Trophy	Reaper's Trophy
+Devil's Advocate	Devil's Advocate
+Dreadmother	Dreadmother
+Nihlathak's Spirit	Nihlathak's Spirit
+Basilisk's Kiss	Basilisk's Kiss
+Prayer for the Dying	Prayer for the Dying
+Boneflame	Boneflame
+Ravings of the Mad	Ravings of the Mad
+Darkforge Spawn	Darkforge Spawn
+Validator	Validator
+Seafarer's Security	Seafarer's Security
+Swiftfoot Slash	Swiftfoot Slash
+Grip of the Gorgon	Grip of the Gorgon
+Felix's Brace	Felix's Brace
+Secret of Steel	Secret of Steel
+Bastion of Hope	Bastion of Hope
+Hellchatter	Hellchatter
+King's Guard	King's Guard
+Devourer of Worlds	Devourer of Worlds
+Death to the Soul	Death to the Soul
+Twilight Presence	Twilight Presence
+Knight's Holy Sigil	Knight's Holy Sigil
+Voice of the Prophet	Voice of the Prophet
+Defender of Innocence	Defender of Innocence
+Black Rain	Black Rain
+Crusader's Will	Crusader's Will
+Herald of Zakarum	Herald of Zakarum
+Wisdom of Thoth	Wisdom of Thoth
+Grand Inquisitor	Grand Inquisitor
+Ancients' Epiphany	Ancients' Epiphany
+Cleric's Rebuke	Cleric's Rebuke
+Dawn Blesser	Dawn Blesser
+Alma Negra	Alma Negra
+Faith's Promise	Faith's Promise
+Dawnfall	Dawnfall
+God's Word	God's Word
+Dragonscale	Dragonscale
+Valorsong	Valorsong
+Fortress of Morpheus	Fortress of Morpheus
+Madman's Bluster	Madman's Bluster
+Chaos Kin	Chaos Kin
+Pitykiller	Pitykiller
+Darkhunger	Darkhunger
+Kygragond	Kygragond
+Dragonkin	Dragonkin
+Invader's Glee	Invader's Glee
+Blood Dancer	Blood Dancer
+Warsummoner	Warsummoner
+Chimera's Chaos	Chimera's Chaos
+Helms Deep	Helms Deep
+Deadgaze	Deadgaze
+Malefactor’s Reward	Malefactor’s Reward
+Gambler's Glory	Gambler's Glory
+Primal Lust	Primal Lust
+Slayer's Glee	Slayer's Glee
+Hanabal's Crown	Hanabal's Crown
+Hellraiser's Casque	Hellraiser's Casque
+Vanguard	Vanguard
+Arreat's Face	Arreat's Face
+Conqueror's Feast	Conqueror's Feast
+Foul Embrace	Foul Embrace
+Death Knight's Mask	Death Knight's Mask
+Wolfhowl	Wolfhowl
+Wasteland Visage	Wasteland Visage
+Demonhorn's Edge	Demonhorn's Edge
+Insight of the Ancients	Insight of the Ancients
+Halaberd's Reign	Halaberd's Reign
+Archon's Ache	Archon's Ache
+Conscience of the King	Conscience of the King
+Morning After	Morning After
+Blood Brother	Blood Brother
+Swift Slaughter	Swift Slaughter
+Copperbite	Copperbite
+Yamanda's Token	Yamanda's Token
+Silverskin	Silverskin
+Voltar's Feather	Voltar's Feather
+Eye of Heaven	Eye of Heaven
+Lion's Pride	Lion's Pride
+Wraith Whisper	Wraith Whisper
+Moonshadow	Moonshadow
+The King's Heart	The King's Heart
+Gathering of Hawks	Gathering of Hawks
+Creeper's Canopy	Creeper's Canopy
+Centaur's Sight	Centaur's Sight
+Night Prowler	Night Prowler
+Phoenix Fall	Phoenix Fall
+Falcon Sharp	Falcon Sharp
+Leader of the Pack	Leader of the Pack
+Jalal's Mane	Jalal's Mane
+Call of the Wild	Call of the Wild
+Cerebus	Cerebus
+Eagle Eyes	Eagle Eyes
+Sanctuary's Scion	Sanctuary's Scion
+Spirit of the Land	Spirit of the Land
+Spiritkeeper	Spiritkeeper
+Hecuba's Tresses	Hecuba's Tresses
+Ravenlore	Ravenlore
+Call of the Kindred	Call of the Kindred
+Stone Feather	Stone Feather
+Killerwatch	Killerwatch
+Hidden Death	Hidden Death
+Simpleton's Shadow	Simpleton's Shadow
+Razorspine	Razorspine
+Storms of Spring	Storms of Spring
+Murdering Bloom	Murdering Bloom
+Spirit Hawk	Spirit Hawk
+Cold of Winter	Cold of Winter
+Crimson Cry	Crimson Cry
+Samantha's Fist	Samantha's Fist
+Androsphinx	Androsphinx
+Liege Reaver	Liege Reaver
+Frostshiver	Frostshiver
+Lynx Talon	Lynx Talon
+Winterquick	Winterquick
+Nightmare Glove	Nightmare Glove
+Key to the Madhouse	Key to the Madhouse
+Bladespan	Bladespan
+Dark Demense	Dark Demense
+Martial Law	Martial Law
+Troll's Touch	Troll's Touch
+Keys to Hell	Keys to Hell
+Storm Demon's Glair	Storm Demon's Glair
+Corpseflayer	Corpseflayer
+Sabertooth	Sabertooth
+Pleasures of the Perverse	Pleasures of the Perverse
+Dusk Ray	Dusk Ray
+Razor Knuckle	Razor Knuckle
+Heat of Summer	Heat of Summer
+Scarab Cleaver	Scarab Cleaver
+Fullsuffering	Fullsuffering
+Chi Strike	Chi Strike
+Slithertongue	Slithertongue
+Wight Claw	Wight Claw
+Shadowy Places	Shadowy Places
+Werewolf Talons	Werewolf Talons
+Dark Nemesis	Dark Nemesis
+Adamantine Razors	Adamantine Razors
+Cutthroat1	Cutthroat1
+Path of the Nightwalker	Path of the Nightwalker
+Fearsome Rumors	Fearsome Rumors
+Glitterkill	Glitterkill
+Wakazashi	Wakazashi
+Iniquity Razor	Iniquity Razor
+Biteblade	Biteblade
+Jadetalon	Jadetalon
+Nightwrath	Nightwrath
+Silent Shank	Silent Shank
+Flaming Fist	Flaming Fist
+Shadowkiller	Shadowkiller
+Death Slaad1	Death Slaad1
+Firelizard's Talons	Firelizard's Talons
+Spellfist	Spellfist
+Sin Sister	Sin Sister
+Avalanche Strike	Avalanche Strike
+Torturer's Trust	Torturer's Trust
+Ring of Engagement	Ring of Engagement
+Nagelring	Nagelring
+Nameless Fear	Nameless Fear
+Manald Heal	Manald Heal
+Elven Heartband	Elven Heartband
+Knell of Discord	Knell of Discord
+The Stone of Jordan	The Stone of Jordan
+Vampiric Regeneration	Vampiric Regeneration
+Dwarf Star	Dwarf Star
+Golem's Might	Golem's Might
+Raven Frost	Raven Frost
+Planatar Enlightenment	Planatar Enlightenment
+Thief of Dreams	Thief of Dreams
+Bul Katho's Wedding Band	Bul Katho's Wedding Band
+Carrion Wind	Carrion Wind
+Jackal's Laughter	Jackal's Laughter
+Nature's Peace	Nature's Peace
+Fellowship's Hope	Fellowship's Hope
+Wisp	Wisp
+Faerie Ring	Faerie Ring
+Stone Of Jordan*	Stone Of Jordan*
+Constricting Ring	Constricting Ring
+Eye of Kahn	Eye of Kahn
+Psyche Shroud	Psyche Shroud
+Nokozan Relic	Nokozan Relic
+Amulet of Warding	Amulet of Warding
+The Eye of Etlich	The Eye of Etlich
+The Mahim-Oak Curio	The Mahim-Oak Curio
+Cryptking	Cryptking
+Sequence of Seasons	Sequence of Seasons
+Saracen's Chance	Saracen's Chance
+Rat Lord’s Gate	Rat Lord’s Gate
+The Cat's Eye	The Cat's Eye
+Luck Sigil	Luck Sigil
+Crescent Moon	Crescent Moon
+Atma's Scarab	Atma's Scarab
+The Rising Sun	The Rising Sun
+Highlord's Wrath	Highlord's Wrath
+Seraph's Hymn	Seraph's Hymn
+Mara's Kaleidoscope	Mara's Kaleidoscope
+The Vanquisher	The Vanquisher
+Foulsigil	Foulsigil
+Metalgrid	Metalgrid
+Veil of Despair	Veil of Despair
+Autumn's Avatar	Autumn's Avatar
+Remembrance of Glory	Remembrance of Glory
+Argo's Anchor	Argo's Anchor
+Ogre King's Bowl	Ogre King's Bowl
+Annihilus	Annihilus
+Peacemaker	Peacemaker
+Lifesever	Lifesever
+Thronegranter	Thronegranter
+Nightdrifter	Nightdrifter
+Gheed's Fortune	Gheed's Fortune
+Queenscall	Queenscall
+Tiger Eye	Tiger Eye
+Jade Facet	Jade Facet
+Topaz Facet	Topaz Facet
+Emerald Facet	Emerald Facet
+Quartz Facet	Quartz Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Rainbow Facet	Rainbow Facet
+Saphire Facet	Saphire Facet
+Saphire Facet	Saphire Facet
+Diamond Facet	Diamond Facet
+Adamantine Facet	Adamantine Facet
+Star Facet	Star Facet
+Heaven Facet	Heaven Facet
+Amulet of the Viper	Amulet of the Viper
+Staff of Kings	Staff of Kings
+Horadric Staff	Horadric Staff
+Hell Forge Hammer	Hell Forge Hammer
+KhalimFlail	KhalimFlail
+SuperKhalimFlail	SuperKhalimFlail
+Leoric's Silverbane	Leoric's Silverbane
+Harimenja Slice	Harimenja Slice
+Ez'raavar	Ez'raavar
+Canine White	Canine White
+Ire-Ren Talos Breach	Ire-Ren Talos Breach
+Icerift	Icerift
+Aktal-Tsur	Aktal-Tsur
+Wake of the Marauder	Wake of the Marauder
+Sorrow of the Slayer	Sorrow of the Slayer
+Life Drinker	Life Drinker
+Magus Rodum	Magus Rodum
+Exhile	Exhile
+Infernal Resurrection	Infernal Resurrection
+Sins of the Fallen	Sins of the Fallen
+Shadow Branch	Shadow Branch
+Dawn's Prayer	Dawn's Prayer
+Celerity	Celerity
+The Banisher	The Banisher
+Nails of Yzan	Nails of Yzan
+Troll Smasher	Troll Smasher
+Dawn Star	Dawn Star
+Scorpion's Tail	Scorpion's Tail
+Moradin's Hammer	Moradin's Hammer
+Barbarian Thumper	Barbarian Thumper
+Malbanger	Malbanger
+Dwarf Claymore	Dwarf Claymore
+Quartermoon Scimitar	Quartermoon Scimitar
+Moonset Sabre	Moonset Sabre
+Alyarin Edge	Alyarin Edge
+Diamond Blade	Diamond Blade
+Luminus	Luminus
+Flametongue	Flametongue
+Death and Glory	Death and Glory
+Mirrorblade	Mirrorblade
+Ultima Rend	Ultima Rend
+Cycloptian Reaver	Cycloptian Reaver
+Windwrath	Windwrath
+Edgesting	Edgesting
+Father of the Sword	Father of the Sword
+Grass Blade	Grass Blade
+Flowen Backstabber	Flowen Backstabber
+Blood Art	Blood Art
+Suhaya	Suhaya
+Recata Armanya	Recata Armanya
+Oberisk	Oberisk
+Gungnir	Gungnir
+Arreat Evilpoker	Arreat Evilpoker
+Wyrmlancer	Wyrmlancer
+Altran Tan-do-li	Altran Tan-do-li
+Egluov Poleaxe	Egluov Poleaxe
+Deathtouch	Deathtouch
+Arreat Devilslayer	Arreat Devilslayer
+Ignifuge	Ignifuge
+Quicksilver Death	Quicksilver Death
+Demonbeater	Demonbeater
+Wolf Spirit	Wolf Spirit
+Tree Spirit	Tree Spirit
+Blue Tsunami	Blue Tsunami
+Fairy Tale	Fairy Tale
+Red Pin	Red Pin
+Ranger String	Ranger String
+Elkris Matron	Elkris Matron
+Vendetta	Vendetta
+Storm Wind	Storm Wind
+Kanen Vortex	Kanen Vortex
+The Siren	The Siren
+Zanzouken	Zanzouken
+Huntress' Thorn	Huntress' Thorn
+Terror of Chton	Terror of Chton
+Arm of Justice	Arm of Justice
+Phoenix Flight	Phoenix Flight
+The Humiliating Crown	The Humiliating Crown
+Vampyr Head	Vampyr Head
+Arreat Helm	Arreat Helm
+Kurast Helm	Kurast Helm
+Crippling Gaze	Crippling Gaze
+Vision of Onslaught	Vision of Onslaught
+Mask of Faith	Mask of Faith
+Krill's Hypnotism	Krill's Hypnotism
+Devil-Kin Hide	Devil-Kin Hide
+Mirror of the Undead	Mirror of the Undead
+Demoncoat	Demoncoat
+Devilskin	Devilskin
+Sparkfend	Sparkfend
+Lich Skin	Lich Skin
+Paladin Crest	Paladin Crest
+Chains of Chton	Chains of Chton
+Rangiara Coat	Rangiara Coat
+Bbana Plate	Bbana Plate
+Godly Mail	Godly Mail
+Pandemonium's Guardian	Pandemonium's Guardian
+Nauglamir	Nauglamir
+Planefusion	Planefusion
+Vigilance	Vigilance
+Tearjge	Tearjge
+Shieldshift	Shieldshift
+Disc of Power	Disc of Power
+Boneshard	Boneshard
+Goreward	Goreward
+Herald of the Divine Goddess	Herald of the Divine Goddess
+Darkwood Bark	Darkwood Bark
+Dragonguard	Dragonguard
+Hands of Thieves	Hands of Thieves
+Powerhold	Powerhold
+Hands of Abidana	Hands of Abidana
+Stormfist	Stormfist
+Mur'ko Swordfist	Mur'ko Swordfist
+Soul Blazer	Soul Blazer
+Sandals of Hermes	Sandals of Hermes
+The Charge of Battle	The Charge of Battle
+Tombwalker	Tombwalker
+Nightwaltz	Nightwaltz
+Arreat Wrap	Arreat Wrap
+Storm Guard	Storm Guard
+Ai'un Dane	Ai'un Dane
+Sharktooth Belt	Sharktooth Belt
+Diamond Guard	Diamond Guard
+Expansion	Expansion
+The Steel Toothed Flayer	The Steel Toothed Flayer
+Soul Carver	Soul Carver
+Valor of Gemini	Valor of Gemini
+Dragon's Tooth	Dragon's Tooth
+Shadow Razor	Shadow Razor
+Hellraiser	Hellraiser
+Ikusa Kizutsukeru	Ikusa Kizutsukeru
+Spirit of the Earth	Spirit of the Earth
+Reaver of the Damned	Reaver of the Damned
+Minotaurian Guillotine	Minotaurian Guillotine
+Phantom Pain	Phantom Pain
+Corrupt Genesis	Corrupt Genesis
+Crypt Raider	Crypt Raider
+Tomb Raiser	Tomb Raiser
+Arm of the Oak	Arm of the Oak
+Call to Glory	Call to Glory
+Frost of Kailakinnen	Frost of Kailakinnen
+The Peacekeeper	The Peacekeeper
+Moonsteel Club	Moonsteel Club
+Lizn Zephyr	Lizn Zephyr
+Novalight	Novalight
+Ravager's Anaconda	Ravager's Anaconda
+Eiko's Aenger	Eiko's Aenger
+The Avatar's Chosen	The Avatar's Chosen
+Yaqqan Hammer	Yaqqan Hammer
+Doppelganger	Doppelganger
+Zzani Blade	Zzani Blade
+Squer al Mni	Squer al Mni
+Yoshiyuki	Yoshiyuki
+Planeripper	Planeripper
+Eukeen Edge	Eukeen Edge
+Harper's Point	Harper's Point
+The Needle	The Needle
+Iquan Sword	Iquan Sword
+Dullahan's Executioner	Dullahan's Executioner
+Pyros' Edge	Pyros' Edge
+Carnal's Eviscerator	Carnal's Eviscerator
+Bladesinger	Bladesinger
+Frostbrand	Frostbrand
+Orichalum	Orichalum
+Throat Seeker	Throat Seeker
+Ascension	Ascension
+Swallow Eye	Swallow Eye
+Moonmetal Ranasan	Moonmetal Ranasan
+Fuscina Lunata	Fuscina Lunata
+Silver Wolf	Silver Wolf
+Point of Abidana	Point of Abidana
+Dragon Whisker	Dragon Whisker
+Sabredge	Sabredge
+Reach of doom	Reach of doom
+Hurricane	Hurricane
+Zzaserband	Zzaserband
+Narya Axe	Narya Axe
+Soul Raiser	Soul Raiser
+Planetsage	Planetsage
+Bear Spirit	Bear Spirit
+The Sage's Stand	The Sage's Stand
+Zain's Wisdom	Zain's Wisdom
+Stormbringer	Stormbringer
+Woaban Edge	Woaban Edge
+Caller of the Hunt	Caller of the Hunt
+Tennr Oaksting	Tennr Oaksting
+Song of Justice	Song of Justice
+Looming Arch	Looming Arch
+Rain of Fire	Rain of Fire
+Seeker of the Northstar	Seeker of the Northstar
+Narya's Sling	Narya's Sling
+Gastrafatis	Gastrafatis
+Gorgon Pelter	Gorgon Pelter
+Ominous Impailer	Ominous Impailer
+Kailn Doom-Hail	Kailn Doom-Hail
+Armor	Armor
+King's Disguise	King's Disguise
+Aeonhelm	Aeonhelm
+Syran Helm	Syran Helm
+Albina Basinet	Albina Basinet
+Behemoth Horns	Behemoth Horns
+Frigid Halo	Frigid Halo
+Nullifying Gaze	Nullifying Gaze
+Nektraal Obsidia	Nektraal Obsidia
+Vampire Tunic	Vampire Tunic
+Viper-Skin Wrap	Viper-Skin Wrap
+Ariana Armour	Ariana Armour
+Bessenmail	Bessenmail
+Glowforce	Glowforce
+Raiment of Champions	Raiment of Champions
+Naaleth Rock	Naaleth Rock
+Tordek's Requiem	Tordek's Requiem
+Goldsheet	Goldsheet
+Plate of the Undying	Plate of the Undying
+Steelskin	Steelskin
+Golemskin	Golemskin
+Rosebarb	Rosebarb
+Polaris	Polaris
+God's Garb	God's Garb
+Cairn Forged Disks	Cairn Forged Disks
+Arreat Guard	Arreat Guard
+Shadespiral	Shadespiral
+White Queen	White Queen
+Magehold	Magehold
+Coat of Arms	Coat of Arms
+Hero's Grave	Hero's Grave
+Vlad's Wall of Spikes	Vlad's Wall of Spikes
+Magehand	Magehand
+Runetracers	Runetracers
+Spirit Shackles	Spirit Shackles
+Hand of Fate	Hand of Fate
+God Hands	God Hands
+Boots of Germinas	Boots of Germinas
+Tearhaunch of Chton	Tearhaunch of Chton
+Godspeed	Godspeed
+Rider of the East Wind	Rider of the East Wind
+Treads of the Duskwalker	Treads of the Duskwalker
+Tera's Waist	Tera's Waist
+Adamantine Belt	Adamantine Belt
+Stormloop	Stormloop
+Umberstrand	Umberstrand
+Ranakana Wrap	Ranakana Wrap
+Elite Uniques	Elite Uniques
+Hero of the People	Hero of the People
+Minotaurian Skull	Minotaurian Skull
+Wolforce	Wolforce
+Gemstone Skin	Gemstone Skin
+Lunatic Pandora	Lunatic Pandora
+Shutz	Shutz
+Bloodthirster	Bloodthirster
+Arkaine's Edge	Arkaine's Edge
+Hydros' Wrath	Hydros' Wrath
+Swingbasher	Swingbasher
+Griever	Griever
+Runewarper	Runewarper
+Death's Widow	Death's Widow
+Ragnarok	Ragnarok
+Shrieker	Shrieker
+Constricting Ring	Constricting Ring
+Zain's Battle Bringer	Zain's Battle Bringer
+Vex Hunter	Vex Hunter
+The Queen of Hearts	The Queen of Hearts
+Class Specific	Class Specific
+Arreat's Face	Arreat's Face
+Homunculus	Homunculus
+Titan's Revenge	Titan's Revenge
+Lycander's Aim	Lycander's Aim
+Lycander's Flank	Lycander's Flank
+The Oculus	The Oculus
+Herald of Zakarum	Herald of Zakarum
+Cutthroat	Cutthroat
+Jalal's Mane	Jalal's Mane
+Whirlwisp	Whirlwisp
+Whiplash Harna	Whiplash Harna
+The Hulk's Force	The Hulk's Force
+Jjeni Harna	Jjeni Harna
+Slayer Harna	Slayer Harna
+Kelnan Edge	Kelnan Edge
+Lithos' Venom	Lithos' Venom
+Champion's Harna	Champion's Harna
+Bonefinger	Bonefinger
+Spiritrise	Spiritrise
+Venomshaft	Venomshaft
+Day of the Dead	Day of the Dead
+The Arcane Bark of Inifuss	The Arcane Bark of Inifuss
+Faith of Khalim	Faith of Khalim
+Guide to Wintermoon	Guide to Wintermoon
+Zakarum's Salvation	Zakarum's Salvation
+Reza's Vengeance	Reza's Vengeance
+The Slayer	The Slayer
+Whipstitch	Whipstitch
+Mjallnagor	Mjallnagor
+Gladiator Edge	Gladiator Edge
+Edge Hyperius	Edge Hyperius
+Slayer of Lern	Slayer of Lern
+Warpmaker	Warpmaker
+Starmetal Sword	Starmetal Sword
+Eclesis	Eclesis
+Terminus Et	Terminus Et
+Terminus Est	Terminus Est
+Nes'nar Blade	Nes'nar Blade
+Rena's Arm	Rena's Arm
+Avatar Edge	Avatar Edge
+Katzbalger	Katzbalger
+Osiris Blade	Osiris Blade
+Zorlin Shape	Zorlin Shape
+Sunrise Spear	Sunrise Spear
+Aust's Ranasan	Aust's Ranasan
+Arwiyah Narquita	Arwiyah Narquita
+Will of Stratos	Will of Stratos
+Flipspin Lance	Flipspin Lance
+Kuuno Niraya	Kuuno Niraya
+Ilnar's Reach	Ilnar's Reach
+Ghost Harvest	Ghost Harvest
+Gunge Lance	Gunge Lance
+Mjolnir	Mjolnir
+Harbinger	Harbinger
+Archon's Way	Archon's Way
+Eagle Spirit	Eagle Spirit
+Sylvan Heritage	Sylvan Heritage
+Raa's Runebearer	Raa's Runebearer
+Silkspinner	Silkspinner
+Kkali Bow	Kkali Bow
+Shadekiller	Shadekiller
+Harpstring	Harpstring
+Llnan Arch	Llnan Arch
+Seventh Heaven	Seventh Heaven
+Hunterkiller	Hunterkiller
+Jukka Crossbow	Jukka Crossbow
+The Basilisk	The Basilisk
+Windlass	Windlass
+The Iron Berret of Lern	The Iron Berret of Lern
+Blade Lore	Blade Lore
+Tannr Case	Tannr Case
+The Will of Nya're	The Will of Nya're
+Veil of Nightmares	Veil of Nightmares
+Lumin Robe	Lumin Robe
+The Hydra's Skin	The Hydra's Skin
+Desert Power	Desert Power
+Ringweave	Ringweave
+Duskforce	Duskforce
+Mirrored Mail	Mirrored Mail
+Bandweave	Bandweave
+Ya Hya Chauhadda	Ya Hya Chauhadda
+Tideclash	Tideclash
+The Power Within	The Power Within
+Shade Force	Shade Force
+The Lightbringer's Skin	The Lightbringer's Skin
+Tempest Cage	Tempest Cage
+Phobus	Phobus
+Kalabolg's Spellslayer	Kalabolg's Spellslayer
+Reflection Shield	Reflection Shield
+Arthur's Guard	Arthur's Guard
+Unheimlich Handschuh	Unheimlich Handschuh
+Archer Grip	Archer Grip
+Avatar's Hands	Avatar's Hands
+The Grip of Mana	The Grip of Mana
+Zeidrich	Zeidrich
+Shadowwalk	Shadowwalk
+The Fetlock	The Fetlock
+Hyper	Hyper
+Zzarian Ulsii	Zzarian Ulsii
+Leapspring Boots	Leapspring Boots
+Silksmoke	Silksmoke
+Ranya's Shackle	Ranya's Shackle
+Coil of Glory	Coil of Glory
+The Aarya Cords	The Aarya Cords
+The Energy Band	The Energy Band
+Toothskull	Toothskull
+Skulleyed Wall	Skulleyed Wall
+Axeclash Hold	Axeclash Hold
+Runes of Aq'kan	Runes of Aq'kan
+Moonsteel Circlet	Moonsteel Circlet
+Decimating Band	Decimating Band
+Niyzarian Ok'la	Niyzarian Ok'la
+Asudia Bow	Asudia Bow
+Heartsting	Heartsting
+Ambush of Rehara	Ambush of Rehara
+Tera's Risk	Tera's Risk
+Hatla's Rain	Hatla's Rain
+Terenbrae Thorn	Terenbrae Thorn
+Wolf Blades	Wolf Blades
+Taarian Hands	Taarian Hands
+Bearfist	Bearfist
+Eagle Call	Eagle Call
+Dragon Call	Dragon Call
+Twilight Scissors	Twilight Scissors
+Wave of Sanctity	Wave of Sanctity
+Diablo's Burn	Diablo's Burn
+Smoketwist	Smoketwist
+Helabrega's Destiny	Helabrega's Destiny
+Cairn Heart	Cairn Heart
+Wisp Flight	Wisp Flight
+Zephyr Sticks	Zephyr Sticks
+Call of Nii'eeb	Call of Nii'eeb
+Dragon Teeth	Dragon Teeth
+Centrefugal Force	Centrefugal Force
+Flying Death	Flying Death
+Hara's Knife	Hara's Knife
+Hurler's Axe	Hurler's Axe
+Akaran Axe	Akaran Axe
+Larzuk's Helm	Larzuk's Helm
+The Vampire's Guise	The Vampire's Guise
+Hornet Force	Hornet Force
+Leapspring Helm	Leapspring Helm
+Eagle Guard	Eagle Guard
+Whitefang's Guise	Whitefang's Guise
+Talon's Face	Talon's Face
+Spirit of Aq'kan	Spirit of Aq'kan
+Feathers for Mna'Reci	Feathers for Mna'Reci
+Ert'glacis Nyarin	Ert'glacis Nyarin
+Erena Jjukara	Erena Jjukara
+Mnaran Arn	Mnaran Arn
+Emblic Guard	Emblic Guard
+Terminus Zeta	Terminus Zeta
+Et Larac Zzira	Et Larac Zzira
+Duriel's Guard	Duriel's Guard
+Flesh of the Lifeless	Flesh of the Lifeless
+Belial's Lies	Belial's Lies
+Unjja's Soul	Unjja's Soul
+Azmodan's Sin	Azmodan's Sin
+Ranadan Scing	Ranadan Scing
+Ironstring	Ironstring
+Zonian Legion	Zonian Legion
+Revenge of Rehara	Revenge of Rehara
+Hatla's Storm	Hatla's Storm
+Moonspoke	Moonspoke
+Akaran Spike	Akaran Spike
+Angel Hands	Angel Hands
+Shaderip	Shaderip
+Stormchatcher	Stormchatcher
+Fist of Chton	Fist of Chton
+Bladed Guard	Bladed Guard
+Angel Orb	Angel Orb
+Shockstone	Shockstone
+Clouds of Justice	Clouds of Justice
+Mania Force	Mania Force
+Storm Stone	Storm Stone
+Slayer Pilum	Slayer Pilum
+Spirit Whisker	Spirit Whisker
+Azd Nya	Azd Nya
+Azkan Whisper	Azkan Whisper
+Ghost Hunter	Ghost Hunter
+Spinslitter	Spinslitter
+Flipdart	Flipdart
+Rulan Axe	Rulan Axe
+Arreat Axe	Arreat Axe
+Maui Visor	Maui Visor
+Nemian Helm	Nemian Helm
+Nioj Guard	Nioj Guard
+Hero Guard	Hero Guard
+Courage Visor	Courage Visor
+Galace's Grace	Galace's Grace
+The Shifter's Feathers	The Shifter's Feathers
+The Hunted	The Hunted
+Windwave	Windwave
+Stripes of Zun-senni	Stripes of Zun-senni
+Mirror Disc	Mirror Disc
+Link's Protector	Link's Protector
+Dargon's Symbol	Dargon's Symbol
+Golden Crest	Golden Crest
+Tiran Disc	Tiran Disc
+Nga'Ranaka'Sya	Nga'Ranaka'Sya
+Endugu's Totem	Endugu's Totem
+Xerrom Kalar	Xerrom Kalar
+Haju Head	Haju Head
+Kahlim's Shame	Kahlim's Shame
+Esa's Dive	Esa's Dive
+Sting	Sting
+Skullcrasher	Skullcrasher
+Overlord's Slayer	Overlord's Slayer
+Tera's Spears	Tera's Spears
+Wrist Trap	Wrist Trap
+Slayer Thorn	Slayer Thorn
+Salia's Fist	Salia's Fist
+Sesci	Sesci
+Redana Salanen	Redana Salanen
+The Tyger	The Tyger
+Azarian Force	Azarian Force
+Hope	Hope
+Tal Rasha's True Symbol	Tal Rasha's True Symbol
+Static Orb	Static Orb
+Worldstone Orb	Worldstone Orb
+Planar Warp	Planar Warp
+Hydra Teeth	Hydra Teeth
+Dragon Harpoon	Dragon Harpoon
+Berserker Javelin	Berserker Javelin
+Spirit Shard	Spirit Shard
+Demon Hunter	Demon Hunter
+Araya Knife	Araya Knife
+Thieves' Knife	Thieves' Knife
+Spinning Death	Spinning Death
+Araya Axe	Araya Axe
+Face of Courage	Face of Courage
+The Fangs of Fenrir	The Fangs of Fenrir
+Face of Wisdom	Face of Wisdom
+Face of Power	Face of Power
+Face of Honor	Face of Honor
+Terminus Alpha	Terminus Alpha
+Dawn Helm	Dawn Helm
+Plane of Mana	Plane of Mana
+Zun-senni's Endless Sky	Zun-senni's Endless Sky
+Spirit Dreams	Spirit Dreams
+Mark of the Initiated	Mark of the Initiated
+Guard of the Xel'cen	Guard of the Xel'cen
+Hrelian Ward	Hrelian Ward
+Shield of Faith	Shield of Faith
+Vex Guard	Vex Guard
+Mephisto's Skull	Mephisto's Skull
+Jjuji Totem	Jjuji Totem
+Diablo's Guard	Diablo's Guard
+Witch Head	Witch Head
+Baal's Visor	Baal's Visor
+C'yanni Signet	C'yanni Signet
+Malachite Circle	Malachite Circle
+The Akaran Jihad	The Akaran Jihad
+Jan'Scholen's Seal	Jan'Scholen's Seal
+Anya's Grief	Anya's Grief
+Nix Encanta Rocidis	Nix Encanta Rocidis
+Jchon's Knowledge	Jchon's Knowledge
+Circle of Power	Circle of Power
+Zzilhi Ormna	Zzilhi Ormna
+Azaria's Shade	Azaria's Shade
+Xan-Karoth's Third Eye	Xan-Karoth's Third Eye
+Aryen's Symbol	Aryen's Symbol
+Tears of Tera	Tears of Tera
+Zain's Mark	Zain's Mark
+Zunsenni Thoughts	Zunsenni Thoughts
+Power from the Void	Power from the Void
+Elcin's Momento	Elcin's Momento
+Layna's Soul	Layna's Soul
+Natalya's Word	Natalya's Word
+The Little Things	The Little Things
+Tera's Eye	Tera's Eye
+Salia's Heart	Salia's Heart
+Aralac's Fist	Aralac's Fist
+Zain's Knowledge	Zain's Knowledge
+Zzan's Sigil	Zzan's Sigil
+Arctuik's Aura	Arctuik's Aura
+Ana's Globe	Ana's Globe
+Rena's Teardrop	Rena's Teardrop
+Slinger Emblem	Slinger Emblem
+Mania Symbol	Mania Symbol
+Doublekey	Doublekey
+Wishfire	Wishfire
+Treason	Treason
+Blackbiter	Blackbiter
+Mooncleanser	Mooncleanser
+Kingspark	Kingspark
+Sleepslicer	Sleepslicer
+Foxweeping	Foxweeping
+Townflux	Townflux
+Crystalshell	Crystalshell
+Dustdazzler	Dustdazzler
+Hundredpounder	Hundredpounder
+Patterntricker	Patterntricker
+Blightcipher	Blightcipher
+Townhollow	Townhollow
+Raineater	Raineater
+Shieldwither	Shieldwither
+Drakeharrower	Drakeharrower
+Morningfade	Morningfade
+Damselharrier	Damselharrier
+Wavecutter	Wavecutter
+Lionflame	Lionflame
+Chanceheart	Chanceheart
+Thundercaster	Thundercaster
+Sunwinder	Sunwinder
+Crestreaper	Crestreaper
+Fatespectre	Fatespectre
+Shieldshatter	Shieldshatter
+Sunwinder	Sunwinder
+Quickshell	Quickshell
+Chainspark	Chainspark
+Skullcipher	Skullcipher
+Spiritweaver	Spiritweaver
+Wyrmborn	Wyrmborn
+Kingspectre	Kingspectre
+Wraithwand	Wraithwand
+Queentale	Queentale
+Skullcipher	Skullcipher
+Peaceshrieker	Peaceshrieker
+Foeglory	Foeglory
+Castlebringer	Castlebringer
+Woundcipher	Woundcipher
+Deathhealer	Deathhealer
+Skullguard	Skullguard
+Childflow	Childflow
+Mercycleanser	Mercycleanser
+Airrender	Airrender
+Cradlekiss	Cradlekiss
+Runeshatter	Runeshatter
+Grimshear	Grimshear
+Dustscreamer	Dustscreamer
+Giantflicker	Giantflicker
+Hazecleaver	Hazecleaver
+Tideshaver	Tideshaver
+Rimehalo	Rimehalo
+Chanceheart	Chanceheart
+Pathsplitter	Pathsplitter
+Kingchorus	Kingchorus
+Darkhollow	Darkhollow
+Crestwhirl	Crestwhirl
+Thundercaster	Thundercaster
+Lifecarver	Lifecarver
+Truthmarker	Truthmarker
+Shardharp	Shardharp
+Autumnweaver	Autumnweaver
+Hellspike	Hellspike
+Taintstroke	Taintstroke
+Childflow	Childflow
+Gloomwand	Gloomwand
+Treason	Treason
+Bloodflux	Bloodflux
+Whiteshadow	Whiteshadow
+Waveharp	Waveharp
+Winterstaff	Winterstaff
+Coincutter	Coincutter
+Raincaller	Raincaller
+Ghostbeat	Ghostbeat
+Maskspindle	Maskspindle
+Oathwing	Oathwing
+Wishburn	Wishburn
+Nightkeen	Nightkeen
+Grasseater	Grasseater
+Beasthammer	Beasthammer
+Luckchorus	Luckchorus
+Oathwarden	Oathwarden
+Trollkeen	Trollkeen
+Boltfang	Boltfang
+Townwarden	Townwarden
+Keepharvester	Keepharvester
+Madsworn	Madsworn
+Swiftdealer	Swiftdealer
+Lakejacker	Lakejacker
+Bonecutter	Bonecutter
+Seadrift	Seadrift
+Fatekeen	Fatekeen
+Leafgiver	Leafgiver
+Blightjester	Blightjester
+Icesaver	Icesaver
+Luckskinner	Luckskinner
+Magespindle	Magespindle
+Chilltaker	Chilltaker
+Skydancer	Skydancer
+Ghosttalon	Ghosttalon
+Hopewraith	Hopewraith
+Evenwail	Evenwail
+Frosthalo	Frosthalo
+Lionflame	Lionflame
+Wyrmstaff	Wyrmstaff
+Madjag	Madjag
+Lawpale	Lawpale
+Silkjacker	Silkjacker
+Keepflayer	Keepflayer
+Duskshaver	Duskshaver
+Galeskinner	Galeskinner
+Seashock	Seashock
+Leafcutter	Leafcutter
+Ruinwinder	Ruinwinder
+Madsworn	Madsworn
+Tengatherer	Tengatherer
+Airwail	Airwail
+Towersinger	Towersinger
+Truthkeen	Truthkeen
+Painwhirl	Painwhirl
+Hollowbiter	Hollowbiter
+Chanceheart	Chanceheart
+Wolfwailer	Wolfwailer
+Deathshadow	Deathshadow
+Shardharp	Shardharp
+Wintergate	Wintergate
+Kingblade	Kingblade
+Landsmiter	Landsmiter
+Oathwailer	Oathwailer
+Crystalstaff	Crystalstaff
+Serpentsplitter	Serpentsplitter
+Spiritweaver	Spiritweaver
+Shepherdkindle	Shepherdkindle
+Cradlecracker	Cradlecracker
+Lawshard	Lawshard
+Deathhealer	Deathhealer
+Fleshgate	Fleshgate
+Giantfury	Giantfury
+Hellspike	Hellspike
+Witchwand	Witchwand
+Shieldflicker	Shieldflicker
+Hollowstriker	Hollowstriker
+Mistdealer	Mistdealer
+Dusktooth	Dusktooth
+Deathgiver	Deathgiver
+Dawnstealer	Dawnstealer
+Woundscourge	Woundscourge
+Tideshaver	Tideshaver
+Swiftblighter	Swiftblighter
+Painsaver	Painsaver
+Wishburn	Wishburn
+Oathdaughter	Oathdaughter
+Ghost's Rush	Ghost's Rush
+Featherbringer	Featherbringer
+Sightwhirl	Sightwhirl
+Duskloom	Duskloom
+Fateflayer	Fateflayer
+Trollkeen	Trollkeen
+Thronewake	Thronewake
+Life Eye	Life Eye
+Worldsigh	Worldsigh
+Frostshiver	Frostshiver
+Skullsworn	Skullsworn
+Widowgatherer	Widowgatherer
+Castleshiver	Castleshiver
+Chainhowl	Chainhowl
+Witchbanisher	Witchbanisher
+Crystalborn	Crystalborn
+Maskblinder	Maskblinder
+Soulforge	Soulforge
+Maskdaughter	Maskdaughter
+Duskstrike	Duskstrike
+Hoperazor	Hoperazor
+Woundblinder	Woundblinder
+Dawnscourge	Dawnscourge
+Kinjacker	Kinjacker
+Featherbanisher	Featherbanisher
+Hollowstriker	Hollowstriker
+Galeturner	Galeturner
+Lifebalm	Lifebalm
+Deathscythe	Deathscythe
+Candlestriker	Candlestriker
+Truthchorus	Truthchorus
+Foeglory	Foeglory
+Loom-loather	Loom-loather
+Shaderavener	Shaderavener
+Heartjester	Heartjester
+Dragonspire	Dragonspire
+Doomwhisper	Doomwhisper
+Grimshear	Grimshear
+Friendshadow	Friendshadow
+Silkslayer	Silkslayer
+Quickraze	Quickraze
+Featherwarden	Featherwarden
+Autumnhammer	Autumnhammer
+Maskstopper	Maskstopper
+Baneblossom	Baneblossom
+Serpentsworn	Serpentsworn
+Thorncaster	Thorncaster
+Wreathsmiter	Wreathsmiter
+Damselwinder	Damselwinder
+Featherbringer	Featherbringer
+Morningfade	Morningfade
+Troublesong	Troublesong
+Cursejacker	Cursejacker
+Tearreaver	Tearreaver
+Queenharvester	Queenharvester
+Bloodstave	Bloodstave
+Flickershatter	Flickershatter
+Luckchorus	Luckchorus
+Grieftrapper	Grieftrapper
+Truthjester	Truthjester
+Cursekeen	Cursekeen
+Truthflash	Truthflash
+Shadowscreamer	Shadowscreamer
+Swifttide	Swifttide
+Mad-loather	Mad-loather
+Swiftblighter	Swiftblighter
+Wraithmocker	Wraithmocker
+Dustraze	Dustraze
+Wishcleaver	Wishcleaver
+Chilltaker	Chilltaker
+Trollharrier	Trollharrier
+Towerwhirl	Towerwhirl
+Runeshock	Runeshock
+Morningcoil	Morningcoil
+Wavecutter	Wavecutter
+Fateflayer	Fateflayer
+Windshiver	Windshiver
+Lieslayer	Lieslayer
+Coingarden	Coingarden
+Magereaver	Magereaver
+Doomravener	Doomravener
+Flameglory	Flameglory
+Chainbinder	Chainbinder
+Heavenshrieker	Heavenshrieker
+Feather Eye	Feather Eye
+Pathrazor	Pathrazor
+Towersinger	Towersinger
+Hollowstriker	Hollowstriker
+Mistraze	Mistraze
+Quickraze	Quickraze
+Skullguard	Skullguard
+Wolfcipher	Wolfcipher
+Castlewing	Castlewing
+Blackshiver	Blackshiver
+Truetalon	Truetalon
+Treason	Treason
+Unwither	Unwither
+Blacktooth	Blacktooth
+Banebanisher	Banebanisher
+Tenskinner	Tenskinner
+Coinribbon	Coinribbon
+Silktalon	Silktalon
+Griefcarver	Griefcarver
+Steelharrier	Steelharrier
+Cradlefire	Cradlefire
+Witchharrower	Witchharrower
+Mistraze	Mistraze
+Summergate	Summergate
+Memorybiter	Memorybiter
+Kingblade	Kingblade
+Veilkiss	Veilkiss
+Waveharp	Waveharp
+Smokebinder	Smokebinder
+Steelraider	Steelraider
+Wreathbranch	Wreathbranch
+Lawshard	Lawshard
+Ghostbeat	Ghostbeat
+Woundshell	Woundshell
+Liberty	Liberty
+Duskforge	Duskforge
+Truthlasher	Truthlasher
+Trollkeen	Trollkeen
+Bloodstave	Bloodstave
+Morningtracker	Morningtracker
+Mercyravener	Mercyravener
+Blightcipher	Blightcipher
+Chaosstriker	Chaosstriker
+Spellsunder	Spellsunder
+Hundredsnapper	Hundredsnapper
+Quickcrusher	Quickcrusher
+Castlebringer	Castlebringer
+Candlefinder	Candlefinder
+Unthresher	Unthresher
+Breathflame	Breathflame
+Chilltaker	Chilltaker
+Voidfall	Voidfall
+Duskforge	Duskforge
+Kin Atrocity	Kin Atrocity
+Orphanbreaker	Orphanbreaker
+Nightdoom	Nightdoom
+Crystalbalm	Crystalbalm
+Doomlasher	Doomlasher
+Keepflayer	Keepflayer
+Galeseeker	Galeseeker
+Runetooth	Runetooth
+Chanceshimmer	Chanceshimmer
+Boneharp	Boneharp
+Tearreaver	Tearreaver
+Laceclaw	Laceclaw
+Crystalwhirl	Crystalwhirl
+Evenbranch	Evenbranch
+Flickerravener	Flickerravener
+Banefork	Banefork
+Tideheart	Tideheart
+Orphanraker	Orphanraker
+Blackshiver	Blackshiver
+Skyshiver	Skyshiver
+Trolltongue	Trolltongue
+Lawshard	Lawshard
+Seaflow	Seaflow
+Foeslicer	Foeslicer
+Truthslasher	Truthslasher
+Daytongue	Daytongue
+Luckjag	Luckjag
+Silkkiss	Silkkiss
+Memoryharrier	Memoryharrier
+Ratsinger	Ratsinger
+Soulstroke	Soulstroke
+Kingspark	Kingspark
+Ruinwinder	Ruinwinder
+Gloomshaver	Gloomshaver
+Hazespire	Hazespire
+Drakerender	Drakerender
+Shardhalo	Shardhalo
+Doomravener	Doomravener
+Shepherdscourge	Shepherdscourge
+Gazeharrier	Gazeharrier
+Soulgate	Soulgate
+Gazeharrier	Gazeharrier
+Peacesnapper	Peacesnapper
+Paleshock	Paleshock
+Truthchorus	Truthchorus
+Lightturner	Lightturner
+Kintricker	Kintricker
+Maidentricker	Maidentricker
+Fateflayer	Fateflayer
+Terrorhunter	Terrorhunter
+Pathdrinker	Pathdrinker
+Patterncaster	Patterncaster
+Bonewyrd	Bonewyrd
+Lifetricker	Lifetricker
+Boltstaff	Boltstaff
+Lionflame	Lionflame
+Widowwither	Widowwither
+Wintercaster	Wintercaster
+Feardrift	Feardrift
+Blight Eye	Blight Eye
+Hazecleaver	Hazecleaver
+Giantflicker	Giantflicker
+Galeseeker	Galeseeker
+Hazeflash	Hazeflash
+Candlechorus	Candlechorus
+Duskcipher	Duskcipher
+Widowslayer	Widowslayer
+Hexfury	Hexfury
+Ratbane	Ratbane
+Hopeblinder	Hopeblinder
+Queenhowl	Queenhowl
+Smokeravage	Smokeravage
+Feathershell	Feathershell
+Banefork	Banefork
+Kinjacker	Kinjacker
+Rosetale	Rosetale
+Banebanisher	Banebanisher
+Kintricker	Kintricker
+Worldharp	Worldharp
+Crestwraith	Crestwraith
+Palemark	Palemark
+Fogshatter	Fogshatter
+Hundredkiller	Hundredkiller
+Voidbrand	Voidbrand
+Fleshbalm	Fleshbalm
+Dragondarken	Dragondarken
+Maskheart	Maskheart
+Cloudguard	Cloudguard
+Swiftblighter	Swiftblighter
+Spiderraker	Spiderraker
+Dustflux	Dustflux
+Dusktooth	Dusktooth
+Deathshadow	Deathshadow
+Terrorbrand	Terrorbrand
+Damseleater	Damseleater
+Kinbringer	Kinbringer
+Curse-loather	Curse-loather
+Ghost's Rush	Ghost's Rush
+Doomspinner	Doomspinner
+Tenmocker	Tenmocker
+Silktalon	Silktalon
+Maidenraker	Maidenraker
+Mirrorstrike	Mirrorstrike
+Snowgate	Snowgate
+Whiteraider	Whiteraider
+Luckjag	Luckjag
+Maskheart	Maskheart
+Fleshhollow	Fleshhollow
+Blackflicker	Blackflicker
+Foxsplinter	Foxsplinter
+Winterstaff	Winterstaff
+Kintricker	Kintricker
+Tainttrapper	Tainttrapper
+Keepflayer	Keepflayer
+Serpenttrapper	Serpenttrapper
+Fiendravage	Fiendravage
+Frostglass	Frostglass
+Ruinwinder	Ruinwinder
+Crystalborn	Crystalborn
+Galestriker	Galestriker
+Hexfury	Hexfury
+Terrorstave	Terrorstave
+Pathblossom	Pathblossom
+Mistfell	Mistfell
+Dustflux	Dustflux
+Duskneedle	Duskneedle
+Tenmocker	Tenmocker
+Crystalfade	Crystalfade
+Earthshatter	Earthshatter
+Trollkeen	Trollkeen
+Boneharp	Boneharp
+Heirborn	Heirborn
+Kinbinder	Kinbinder
+Coldfang	Coldfang
+Soulgate	Soulgate
+Chanceguard	Chanceguard
+Earthshaver	Earthshaver
+Cradlefire	Cradlefire
+Life Eye	Life Eye
+Taintfury	Taintfury
+Keep's End	Keep's End
+Soulspinner	Soulspinner
+Brightglass	Brightglass
+Ratharrower	Ratharrower
+Rainjacker	Rainjacker
+Hexfury	Hexfury
+Darkdrinker	Darkdrinker
+Blackshiver	Blackshiver
+Landstriker	Landstriker
+Shadowanswerer	Shadowanswerer
+Lionhand	Lionhand
+Liekindle	Liekindle
+Truthchorus	Truthchorus
+Dragonhowl	Dragonhowl
+Mercyspectre	Mercyspectre
+Heartbreaker	Heartbreaker
+Landstrike	Landstrike
+Trolltongue	Trolltongue
+Sparrowshell	Sparrowshell
+Pathblossom	Pathblossom
+Bloodcipher	Bloodcipher
+Tideshell	Tideshell
+Cradleblade	Cradleblade
+Townwarden	Townwarden
+Breathflame	Breathflame
+Skullsworn	Skullsworn
+Mercycleanser	Mercycleanser
+Terrorstave	Terrorstave
+Tideshell	Tideshell
+Smokebinder	Smokebinder
+Damselwinder	Damselwinder
+Sandlasher	Sandlasher
+Wraithcaller	Wraithcaller
+Elfblossom	Elfblossom
+Trueshear	Trueshear
+Hoperazor	Hoperazor
+Dragonfire	Dragonfire
+Curse-loather	Curse-loather
+Palemark	Palemark
+Chaosbranch	Chaosbranch
+Hexfury	Hexfury
+Breathreaper	Breathreaper
+Trolltongue	Trolltongue
+Quickreaver	Quickreaver
+Veilkiss	Veilkiss
+Doomspinner	Doomspinner
+Hollowjacker	Hollowjacker
+Brightwraith	Brightwraith
+Damselwinder	Damselwinder
+Lawsunder	Lawsunder
+Skyravener	Skyravener
+Shepherdspindle	Shepherdspindle
+Townwarden	Townwarden
+Rosecleaver	Rosecleaver
+Whiteraider	Whiteraider
+Castlehollow	Castlehollow
+Worldthorn	Worldthorn
+Wolfsmiter	Wolfsmiter
+Whiteraider	Whiteraider
+Boltsinger	Boltsinger
+Sorrow	Sorrow
+Deathmarker	Deathmarker
+Winterscourge	Winterscourge
+Cradleblade	Cradleblade
+Throneclaw	Throneclaw
+Kingcry	Kingcry
+Wraithmocker	Wraithmocker
+Townforge	Townforge
+Spiritweaver	Spiritweaver
+Wavecutter	Wavecutter
+Memoryharrier	Memoryharrier
+Flickerbranch	Flickerbranch
+Palejag	Palejag
+Ghostflicker	Ghostflicker
+Truthflux	Truthflux
+Autumnborn	Autumnborn
+Lionflame	Lionflame
+Wintertale	Wintertale
+Manchorus	Manchorus
+Coinbanisher	Coinbanisher
+Peacesnapper	Peacesnapper
+Fleshbalm	Fleshbalm
+Childfork	Childfork
+Soulraider	Soulraider
+Damselravage	Damselravage
+Palewail	Palewail
+Queenhowl	Queenhowl
+Hazedaughter	Hazedaughter
+Liberty	Liberty
+Castlesaver	Castlesaver
+Kinjacker	Kinjacker
+Pathwand	Pathwand
+Foewarden	Foewarden
+Lightflux	Lightflux
+Heaventhresher	Heaventhresher
+Shieldharrower	Shieldharrower
+Deathhealer	Deathhealer
+Storm's End	Storm's End
+Blackshiver	Blackshiver
+Daytongue	Daytongue
+Rimehalo	Rimehalo
+Starfell	Starfell
+Coldflame	Coldflame
+Quickcoil	Quickcoil
+Smokeshaver	Smokeshaver
+Frostshiver	Frostshiver
+Truthslasher	Truthslasher
+Serpentbinder	Serpentbinder
+Petalthorn	Petalthorn
+Breathflame	Breathflame
+Truewinder	Truewinder
+Coldfang	Coldfang
+Ruincry	Ruincry
+Feardrift	Feardrift
+Smokewhirl	Smokewhirl
+Soulgate	Soulgate
+Orphanwing	Orphanwing
+Frosthunger	Frosthunger
+Veildaughter	Veildaughter
+Townforge	Townforge
+Cursejacker	Cursejacker
+Elfweeping	Elfweeping
+Wintercaster	Wintercaster
+Redcoil	Redcoil
+Townhand	Townhand
+Doomspinner	Doomspinner
+Hundredkiller	Hundredkiller
+Truthjester	Truthjester
+Crystalfade	Crystalfade
+Rainjacker	Rainjacker
+Galeturner	Galeturner
+Nightkeen	Nightkeen
+Liferaider	Liferaider
+Thoughtrazor	Thoughtrazor
+Steelraze	Steelraze
+Woundwither	Woundwither
+Stonespark	Stonespark
+Snowmoaner	Snowmoaner
+Icewhisper	Icewhisper
