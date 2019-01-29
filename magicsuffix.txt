@@ -239,6 +239,7 @@ of Pestilence		1	1	1	25		18				3	16	dmg-pois	125	103	103									1	dgrn	weap	cir
 of Anthrax		100	1	1	33		25				2	16	dmg-pois	150	171	171									1	dgrn	weap							rod	orb						0
 of Blight		100	1	1	45		33				2	16	dmg-pois	75	171	171											ring	amul													0
 of Envy		100	1	1	1		1				2	16	dmg-pois	50	103	103									1	dgrn	jewl														0
+jewels4		100	1	1	1		6				2	16	dmg-pois	29	108	108									1	dgrn	jewl														0
 of Dexterity		1	1	1	1		1				4	17	dex		1	2											amul	miss	circ												0
 of Skill		1	1	1	11		8				3	17	dex		3	5											amul	miss	circ												0
 of Accuracy		1	1	1	27		20				3	17	dex		6	9											amul	miss	circ												0
@@ -359,12 +360,14 @@ of the Locust		1	1	1	47		35				4	27	lifesteal		5	6											ring	circ										
 of the Lamprey		100	1	1	77		65				4	27	lifesteal		7	8									1	cred	ring	circ													0
 of the Leech		1	1	1	34		26				4	27	lifesteal		3	3									1	cred	glov														0
 of the Bat		1	1	1	7		4				7	28	manasteal		4	5											weap							orb							0
+of the Leech		1	1	1	7		15				4	27	lifesteal		1	1									1	cred	jewl														0
 of the Wraith		1	1	1	21		16				7	28	manasteal		6	7									1	cred	mele														0
 of the Vampire		100	1	1	56		48				7	28	manasteal		8	9									1	cred	mele														0
 of the Bat		1	1	1	15		11				4	28	manasteal		3	4											amul	circ													0
 of the Wraith		1	1	1	58		40				4	28	manasteal		5	6											amul	circ													0
 of the Vampire		100	1	1	78		66				4	28	manasteal		7	8									1	cred	amul	circ													0
 of the Bat		1	1	1	35		27				4	28	manasteal		3	3									1	cred	glov														0
+of the Bat		1	1	1	9		12				4	28	manasteal		1	1									1	cred	jewl														0
 of Defiance		1	1	1	25		18				2	29	res-pois-len		75	75									1	dred	tors	shld	amul	circ											0
 of Amelioration		1	1	1	18		13				3	29	res-pois-len		50	50											tors	shld	amul	circ											0
 of Remedy		100	1	1	7		5				3	29	res-pois-len		25	25											armo	ring	amul	circ											0
@@ -668,12 +671,12 @@ of Fire		100	1	1	36		28				2	12	fire-min		4	10	fire-max		11	30					1	dred	jewl		
 of Burning		100	1	1	57		49				2	12	fire-min		11	25	fire-max		31	50					1	dred	jewl														0
 of Lightning		100	1	1	36		28				2	13	ltng-min		1	1	ltng-max		21	60					1	dyel	jewl														0
 of Thunder		100	1	1	57		49				2	13	ltng-min		1	1	ltng-max		61	100					1	dyel	jewl														0
-of Daring		100	1	1	19		14				3	17	dex		4	6											jewl														0
-of Daring		100	1	1	36		28				3	17	dex		7	9											jewl														0
-of Knowledge		100	1	1	24		18				3	23	enr		4	6											jewl														0
-of Knowledge		100	1	1	41		33				3	23	enr		7	9											jewl														0
-of Virility		100	1	1	33		25				4	31	str		5	6											jewl														0
-of Virility		100	1	1	50		42				4	31	str		7	9											jewl														0
+of Daring		100	1	1	19		14				30	17	dex		4	6											jewl														0
+of Daring		100	1	1	36		28				30	17	dex		7	9											jewl														0
+of Knowledge		100	1	1	24		18				30	23	enr		4	6											jewl														0
+of Knowledge		100	1	1	41		33				30	23	enr		7	9											jewl														0
+of Virility		100	1	1	33		25				40	31	str		5	6											jewl														0
+of Virility		100	1	1	50		42				40	31	str		7	9											jewl														0
 of Readiness		1	1	1	20		15				2	7	swing1		10	10											glov														0
 of Craftsmanship		100	1	1	1		1				4	14	dmg-max		1	1											lcha														0
 of Quality		100	1	1	41		33				4	14	dmg-max		2	2											lcha														0
@@ -741,31 +744,51 @@ of Shock		1	1	1	1	3	1				4	13	dmg-ltng		1	3											weap							staf	wand	orb		
 of Regeneration		1	1	1	1	9	1				3	19	regen		2	2											amul	circ													0
 of Energy		1	1	1	1	4	1				4	23	enr		1	1											amul	orb	circ	wand	staf	helm	ring								0
 of Light		1	1	1	1	5	1				4	25	light		1	1	att		10	10							ring	amul													0
-of the Leech		100	1	1	24		20				2	27	lifesteal		2	3											amul														0
-of the Locust		100	1	1	57		45				2	27	lifesteal		4	5											amul														0
-of the Lamprey		100	1	1	85		73				2	27	lifesteal		6	6									1	cred	amul														0
+of the Leech		100	1	1	24		20				10	27	lifesteal		2	3											amul														0
+of the Locust		100	1	1	57		45				10	27	lifesteal		4	5											amul														0
+of the Lamprey		100	1	1	85		73				10	27	lifesteal		6	6									1	cred	amul														0
 of the Bat		1	1	1	25		21				2	28	manasteal		2	3											ring														0
 of the Wraith		1	1	1	58		46				2	28	manasteal		4	5											ring														0
 of the Vampire		100	1	1	86		74				2	28	manasteal		6	6									1	cred	ring														0
-of Frost Shield		100	1	1	26		21				1	44	gethit-skill	44	10	5									1	lblu	armo	amul									0	0	0		
-of Nova		100	1	1	28		28				1	44	hit-skill	48	12	5									1	cblu	weap							miss			0	0	0		
-of Nova		100	1	1	36		35				1	44	hit-skill	48	15	7									1	cblu	weap							miss			0	0	0		
-of Nova Shield		100	1	1	28		21				1	44	gethit-skill	48	12	5									1	cblu	armo	ring 									0	0	0		
-of Nova Shield		100	1	1	36		28				1	44	gethit-skill	48	15	7									1	cblu	armo	ring 									0	0	0		
-of Nova Shield		100	1	1	48		35				1	44	gethit-skill	48	20	10									1	cblu	armo	ring 									0	0	0		
-of Lightning		100	1	1	28		21				1	44	att-skill	49	10	5									1	cblu	weap							miss			0	0	0		
-of Chain Lightning		100	1	1	45		28				1	44	att-skill	53	7	5											weap	ring	amul					miss			0	0	0		
-of Chain Lightning		100	1	1	55		38				1	44	att-skill	53	10	7											weap	ring	amul					miss			0	0	0		
-of Chain Lightning		100	1	1	75		45				1	44	att-skill	53	12	10											weap	ring	amul					miss			0	0	0		
-of Hydra Shield		100	1	1	55		42				1	44	gethit-skill	62	12	5									1	cred	amul										0	0	0		
-of Frost Shield		100	1	1	65		55				1	44	gethit-skill	44	15	10									1	lblu	armo	amul									0	0	0		
-of Nova		100	1	1	65		60				1	44	hit-skill	48	18	10									1	cblu	weap							miss			0	0	0		
-of Nova		100	1	1	82		75				1	44	hit-skill	48	25	15									1	cblu	weap							miss			0	0	0		
-of Nova Shield		100	1	1	65		55				1	44	gethit-skill	48	15	10									1	cblu	armo	ring 									0	0	0		
-of Nova Shield		100	1	1	75		60				1	44	gethit-skill	48	18	15									1	cblu	armo	ring 									0	0	0		
-of Nova Shield		100	1	1	82		75				1	44	gethit-skill	48	20	20									1	cblu	armo	ring 									0	0	0		
-of Lightning		100	1	1	60		55				1	44	att-skill	49	12	10									1	cblu	weap							miss			0	0	0		
-of Chain Lightning		100	1	1	65		60				1	44	att-skill	53	15	15											weap	ring	amul					miss			0	0	0		
-of Chain Lightning		100	1	1	82		75				1	44	att-skill	53	12	20											weap	ring	amul					miss			0	0	0		
-of Chain Lightning		100	1	1	65		60				1	44	att-skill	53	15	20											weap	ring	amul					miss			0	0	0		
-of Hydra Shield		100	1	1	82		75				1	44	gethit-skill	62	15	15									1	cred	amul										0	0	0		
+of Frost Shield		100	1	1	26		21				1	44	gethit-skill	44	10	5									1	lblu	armo	amul									0	0	0		0
+of Nova		100	1	1	28		28				1	44	hit-skill	48	12	5									1	cblu	weap							miss			0	0	0		0
+of Nova		100	1	1	36		35				1	44	hit-skill	48	15	7									1	cblu	weap							miss			0	0	0		0
+of Nova Shield		100	1	1	28		21				1	44	gethit-skill	48	12	5									1	cblu	armo	ring 									0	0	0		0
+of Nova Shield		100	1	1	36		28				1	44	gethit-skill	48	15	7									1	cblu	armo	ring 									0	0	0		0
+of Nova Shield		100	1	1	48		35				1	44	gethit-skill	48	20	4									1	cblu	armo	ring 									0	0	0		0
+of Lightning		100	1	1	28		21				1	44	att-skill	49	10	5									1	cblu	weap							miss			0	0	0		0
+of Chain Lightning		100	1	1	45		28				1	44	att-skill	53	7	5											weap	ring	amul					miss			0	0	0		0
+of Chain Lightning		100	1	1	55		38				1	44	att-skill	53	10	7											weap	ring	amul					miss			0	0	0		0
+of Chain Lightning		100	1	1	75		45				1	44	att-skill	53	12	3											weap	ring	amul					miss			0	0	0		0
+of Hydra Shield		100	1	1	55		42				1	44	gethit-skill	62	12	5									1	cred	amul										0	0	0		0
+of Frost Shield		100	1	1	65		55				1	44	gethit-skill	44	15	3									1	lblu	armo	amul									0	0	0		0
+of Nova		100	1	1	65		60				1	44	hit-skill	48	18	4									1	cblu	weap							miss			0	0	0		0
+of Nova		100	1	1	82		75				1	44	hit-skill	48	25	3									1	cblu	weap							miss			0	0	0		0
+of Nova Shield		100	1	1	65		55				1	44	gethit-skill	48	15	3									1	cblu	armo	ring 									0	0	0		0
+of Nova Shield		100	1	1	75		60				1	44	gethit-skill	48	18	3									1	cblu	armo	ring 									0	0	0		0
+of Nova Shield		100	1	1	82		75				1	44	gethit-skill	48	20	3									1	cblu	armo	ring 									0	0	0		0
+of Lightning		100	1	1	60		55				1	44	att-skill	49	12	3									1	cblu	weap							miss			0	0	0		0
+of Chain Lightning		100	1	1	65		60				1	44	att-skill	53	15	4											weap	ring	amul					miss			0	0	0		0
+of Chain Lightning		100	1	1	82		75				1	44	att-skill	53	12	4											weap	ring	amul					miss			0	0	0		0
+of Chain Lightning		100	1	1	65		60				1	44	att-skill	53	15	3											weap	ring	amul					miss			0	0	0		0
+of Hydra Shield		100	1	1	82		75				1	44	gethit-skill	62	15	4	hit-skill	56	25	2					1	cred	amul										0	0	0		0
+of Ogres		100	1	1	5		3				1	46	str%		1	1	gethit-skill	139	100	2							jewl	ring	amul												0
+of Finesse		100	1	1	4		14				1	45	dex%		1	1	aura	110	1	2							jewl	ring	amul												0
+of Brio		100	1	1	3		15				1	45	vit%		1	1	hit-skill	82	3	2							jewl	ring	amul												0
+of Spiritual		100	1	1	2		16				1	45	enr%		1	1	aura	120	1	2							jewl	ring	amul												0
+of Strength		100	1	1	1		1				1	45	str		1	1	oskill	153	1	2							jewl	ring	amul												0
+of Running		100	1	1	1		9				1	45	move1		1	3	oskill	128	1	2							jewl	ring	amul												0
+of Manas		100	1	1	1		12				1	46	regen-mana		8	17	kill-skill	155	5	2							jewl	ring	amul												0
+of Manas2		100	1	1	30		12				180	46	regen-mana		8	17	kill-skill	155	5	3							jewl	ring	amul												0
+of Manas3		100	1	1	40		14				160	46	regen-mana		8	17	kill-skill	155	5	4							jewl	ring	amul												0
+of Manas4		100	1	1	60		16				140	46	regen-mana		8	17	kill-skill	155	5	5							jewl	ring	amul												0
+of Manas5		100	1	1	80		18				120	46	regen-mana		8	17	kill-skill	155	5	6							jewl	ring	amul												0
+of Manas6		100	1	1	100		22				100	46	regen-mana		8	17	kill-skill	155	5	7							jewl	ring	amul												0
+of Manas7		100	1	1	110		26				80	46	regen-mana		8	17	kill-skill	155	5	8							jewl	ring	amul												0
+of Manas8		100	1	1	130		35				60	46	regen-mana		8	17	kill-skill	155	5	9							jewl	ring	amul												0
+of Manas9		100	1	1	162		45				40	46	regen-mana		8	17	kill-skill	155	5	10							jewl	ring	amul												0
+of Stuns		100	1	1	1		1				1	45	stunlength1		25	50	oskill	129	1	1							jewl	ring	amul												0
+of Ubixitous		100	1	1	28		24				1	12	gold%		1	20	mag%		1	20							jewl														0
+of Antipode		100	1	1	31		29				1	13	balance1		1	5	move1		3	8							jewl	ring													0
+of Noxious		100	1	1	36		34				1	16	dmg-demon		10	25	dmg-undead		10	25							jewl	ring	amul												0
+of Slug		100	1	1	1		25				200	16	slow		1	2	gethit-skill	243	95	2							jewl	ring	amul												0
